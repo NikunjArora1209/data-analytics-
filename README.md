@@ -1,0 +1,1 @@
+This project focuses on building an automated Customer 360 engine using SQL and python. By analyzing 1,800+ purchase records, we developed a system that sanitizes raw transaction data and categorizes customers using RFM (Recency, Frequency, Monetary) analysis. This allows businesses to identify high-value "Champions" and proactively target "At-Risk" customers.
