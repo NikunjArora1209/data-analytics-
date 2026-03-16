@@ -8,7 +8,7 @@ Frequency: Total number of unique transactions.
 
 Monetary: Total Lifetime Value (LTV) calculated as Quantity * UnitPrice.
 
-3. Segmentation (The "Consumer360" Brain)
+ Segmentation (The "Consumer360" Brain)
 Using a CASE statement logic, customers are automatically labeled:
 
 Champions: Recent shoppers with high frequency.
