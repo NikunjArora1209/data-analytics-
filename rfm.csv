@@ -1,0 +1,1643 @@
+CustomerID,CustomerName,recency,frequency,monetary,segment_label
+C5361,"Customer C5361",482,1,4950.64013671875,"At Risk (High Value)"
+C6231,"Customer C6231",9,1,2563.5400390625,Potential/Standard
+C7704,"Customer C7704",736,1,3172.550048828125,"At Risk (High Value)"
+C2923,"Customer C2923",639,1,1525.8900146484375,Churned/Lost
+C4847,"Customer C4847",819,1,1808.239990234375,Churned/Lost
+C7317,"Customer C7317",811,1,629.3699951171875,Churned/Lost
+C5076,"Customer C5076",376,1,266.2200012207031,Churned/Lost
+C5181,"Customer C5181",684,1,2191.360107421875,"At Risk (High Value)"
+C9564,"Customer C9564",182,2,4543.830230712891,"At Risk (High Value)"
+C7521,"Customer C7521",16,2,2512.7899780273438,Potential/Standard
+C7713,"Customer C7713",645,1,906.0999755859375,Churned/Lost
+C3269,"Customer C3269",66,3,12172.7998046875,"Loyal Customer"
+C7058,"Customer C7058",41,2,2157.9899291992188,Potential/Standard
+C8718,"Customer C8718",155,1,1594.9200439453125,Potential/Standard
+C2966,"Customer C2966",592,1,2271.52001953125,"At Risk (High Value)"
+C7436,"Customer C7436",222,1,4556.47998046875,"At Risk (High Value)"
+C8827,"Customer C8827",663,1,2337.550048828125,"At Risk (High Value)"
+C1067,"Customer C1067",211,1,3002.550048828125,"At Risk (High Value)"
+C3719,"Customer C3719",261,1,48.439998626708984,Potential/Standard
+C8138,"Customer C8138",640,1,584.4299926757812,Churned/Lost
+C7824,"Customer C7824",41,3,3030.310104370117,"Loyal Customer"
+C4856,"Customer C4856",264,1,673.5,Potential/Standard
+C4788,"Customer C4788",544,1,1498.6400146484375,Churned/Lost
+C4679,"Customer C4679",384,1,985.1599731445312,Churned/Lost
+C7284,"Customer C7284",312,1,296.239990234375,Potential/Standard
+C2387,"Customer C2387",316,1,4940.0400390625,"At Risk (High Value)"
+C1661,"Customer C1661",149,2,3035.050094604492,Potential/Standard
+C7692,"Customer C7692",141,1,1168.0999755859375,Potential/Standard
+C7789,"Customer C7789",249,1,2140.47998046875,"At Risk (High Value)"
+C7793,"Customer C7793",290,1,1512.9000244140625,Potential/Standard
+C3454,"Customer C3454",774,1,243.67999267578125,Churned/Lost
+C5278,"Customer C5278",178,1,438.20001220703125,Potential/Standard
+C3802,"Customer C3802",703,1,1289.239990234375,Churned/Lost
+C7470,"Customer C7470",316,2,3619.89013671875,"At Risk (High Value)"
+C5254,"Customer C5254",610,1,45.880001068115234,Churned/Lost
+C7480,"Customer C7480",466,1,555.4500122070312,Churned/Lost
+C3130,"Customer C3130",838,1,1686.300048828125,Churned/Lost
+C3032,"Customer C3032",129,1,427.2300109863281,Potential/Standard
+C4007,"Customer C4007",909,1,2957.85009765625,"At Risk (High Value)"
+C9078,"Customer C9078",515,1,1771.6400146484375,Churned/Lost
+C6015,"Customer C6015",316,1,280,Potential/Standard
+C6157,"Customer C6157",206,1,1211.3499755859375,Potential/Standard
+C3763,"Customer C3763",826,1,2126.8798828125,"At Risk (High Value)"
+C8736,"Customer C8736",218,1,2145.760009765625,"At Risk (High Value)"
+C5592,"Customer C5592",426,1,417.2200012207031,Churned/Lost
+C3280,"Customer C3280",841,1,434.5199890136719,Churned/Lost
+C5151,"Customer C5151",324,1,1315.5999755859375,Potential/Standard
+C6267,"Customer C6267",86,1,1658.800048828125,Potential/Standard
+C9907,"Customer C9907",10,1,1116.699951171875,Potential/Standard
+C1813,"Customer C1813",834,1,1548.1600341796875,Churned/Lost
+C8036,"Customer C8036",281,2,4163.43994140625,"At Risk (High Value)"
+C4434,"Customer C4434",261,2,1195.9400329589844,Potential/Standard
+C3557,"Customer C3557",114,1,1986.5999755859375,Potential/Standard
+C4213,"Customer C4213",667,1,3483.199951171875,"At Risk (High Value)"
+C7988,"Customer C7988",440,1,410.0400085449219,Churned/Lost
+C2295,"Customer C2295",744,1,2662.199951171875,"At Risk (High Value)"
+C2463,"Customer C2463",345,1,551.0900268554688,Potential/Standard
+C6671,"Customer C6671",776,1,2588.699951171875,"At Risk (High Value)"
+C3039,"Customer C3039",877,1,4403.22021484375,"At Risk (High Value)"
+C1184,"Customer C1184",276,1,1379.300048828125,Potential/Standard
+C1509,"Customer C1509",390,1,2485.52001953125,"At Risk (High Value)"
+C8097,"Customer C8097",7,1,4530.89990234375,Potential/Standard
+C3739,"Customer C3739",897,1,5002.27001953125,"At Risk (High Value)"
+C7466,"Customer C7466",636,1,3626,"At Risk (High Value)"
+C8446,"Customer C8446",241,3,4633.039978027344,"At Risk (High Value)"
+C5448,"Customer C5448",396,2,2353.760009765625,"At Risk (High Value)"
+C9577,"Customer C9577",223,1,722.8800048828125,Potential/Standard
+C2330,"Customer C2330",825,1,724.469970703125,Churned/Lost
+C4020,"Customer C4020",732,1,324.9200134277344,Churned/Lost
+C9075,"Customer C9075",94,1,589.9199829101562,Potential/Standard
+C6286,"Customer C6286",59,1,2573.340087890625,Potential/Standard
+C7102,"Customer C7102",494,1,718.6500244140625,Churned/Lost
+C9618,"Customer C9618",120,2,7754.449951171875,Potential/Standard
+C1353,"Customer C1353",297,1,1556.8599853515625,Potential/Standard
+C5180,"Customer C5180",183,1,1537.0799560546875,Potential/Standard
+C1452,"Customer C1452",731,1,470.2200012207031,Churned/Lost
+C5649,"Customer C5649",389,1,812.1799926757812,Churned/Lost
+C4229,"Customer C4229",82,1,189.75999450683594,Potential/Standard
+C4760,"Customer C4760",491,1,566.5399780273438,Churned/Lost
+C3716,"Customer C3716",137,1,286.5400085449219,Potential/Standard
+C3704,"Customer C3704",679,1,2260.39990234375,"At Risk (High Value)"
+C4946,"Customer C4946",168,1,471.489990234375,Potential/Standard
+C1241,"Customer C1241",37,1,362.07000732421875,Potential/Standard
+C1895,"Customer C1895",736,2,7702.110107421875,"At Risk (High Value)"
+C5586,"Customer C5586",188,2,1926.3300170898438,Potential/Standard
+C3244,"Customer C3244",399,1,645.8800048828125,Churned/Lost
+C9710,"Customer C9710",694,1,4378.080078125,"At Risk (High Value)"
+C6777,"Customer C6777",234,2,1425.6699829101562,Potential/Standard
+C1583,"Customer C1583",494,2,6252.97998046875,"At Risk (High Value)"
+C3940,"Customer C3940",202,1,1313.719970703125,Potential/Standard
+C4033,"Customer C4033",383,1,137.6199951171875,Churned/Lost
+C5271,"Customer C5271",605,1,173.72000122070312,Churned/Lost
+C7071,"Customer C7071",544,1,2850.5400390625,"At Risk (High Value)"
+C2155,"Customer C2155",631,2,1933.3599853515625,Churned/Lost
+C3770,"Customer C3770",254,1,3141.949951171875,"At Risk (High Value)"
+C7736,"Customer C7736",607,1,3400.110107421875,"At Risk (High Value)"
+C7641,"Customer C7641",71,1,1418.280029296875,Potential/Standard
+C2426,"Customer C2426",793,1,5757.2001953125,"At Risk (High Value)"
+C3756,"Customer C3756",898,1,5382.93017578125,"At Risk (High Value)"
+C6229,"Customer C6229",331,1,3210.56005859375,"At Risk (High Value)"
+C5058,"Customer C5058",532,1,2828,"At Risk (High Value)"
+C5596,"Customer C5596",133,1,538.5599975585938,Potential/Standard
+C9332,"Customer C9332",690,2,2145.800048828125,"At Risk (High Value)"
+C7363,"Customer C7363",602,1,1540.1199951171875,Churned/Lost
+C9590,"Customer C9590",846,1,779.0999755859375,Churned/Lost
+C8205,"Customer C8205",587,1,754.6799926757812,Churned/Lost
+C1099,"Customer C1099",90,2,5125.7000732421875,Potential/Standard
+C1617,"Customer C1617",300,2,2254.0999755859375,"At Risk (High Value)"
+C1936,"Customer C1936",192,1,478.1400146484375,Potential/Standard
+C8577,"Customer C8577",292,3,6670.500213623047,"At Risk (High Value)"
+C1708,"Customer C1708",593,1,728.1300048828125,Churned/Lost
+C5691,"Customer C5691",631,1,1409.4599609375,Churned/Lost
+C3265,"Customer C3265",644,1,661.0599975585938,Churned/Lost
+C7346,"Customer C7346",291,1,1143.800048828125,Potential/Standard
+C4849,"Customer C4849",253,1,748.5499877929688,Potential/Standard
+C6609,"Customer C6609",471,1,463.7799987792969,Churned/Lost
+C4090,"Customer C4090",689,1,2544.429931640625,"At Risk (High Value)"
+C8888,"Customer C8888",675,1,2925.7900390625,"At Risk (High Value)"
+C2946,"Customer C2946",833,1,347.82000732421875,Churned/Lost
+C7113,"Customer C7113",727,1,2297.1298828125,"At Risk (High Value)"
+C3783,"Customer C3783",368,1,1093.43994140625,Churned/Lost
+C1268,"Customer C1268",461,1,160.60000610351562,Churned/Lost
+C6425,"Customer C6425",608,1,1113.449951171875,Churned/Lost
+C7038,"Customer C7038",312,2,2478.7100219726562,"At Risk (High Value)"
+C6599,"Customer C6599",616,1,2280.47998046875,"At Risk (High Value)"
+C6177,"Customer C6177",72,1,743.969970703125,Potential/Standard
+C8133,"Customer C8133",98,1,304,Potential/Standard
+C8269,"Customer C8269",746,1,5539.169921875,"At Risk (High Value)"
+C2652,"Customer C2652",508,1,855.1199951171875,Churned/Lost
+C4617,"Customer C4617",500,1,750.47998046875,Churned/Lost
+C9640,"Customer C9640",295,1,4669.6201171875,"At Risk (High Value)"
+C8863,"Customer C8863",455,1,439.1099853515625,Churned/Lost
+C3242,"Customer C3242",562,1,359.4200134277344,Churned/Lost
+C3118,"Customer C3118",738,1,5522.2998046875,"At Risk (High Value)"
+C2847,"Customer C2847",806,1,3265.050048828125,"At Risk (High Value)"
+C7461,"Customer C7461",552,2,1210.3599853515625,Churned/Lost
+C4070,"Customer C4070",220,1,961.9500122070312,Potential/Standard
+C5274,"Customer C5274",876,1,5312.64013671875,"At Risk (High Value)"
+C9800,"Customer C9800",862,2,6189.219970703125,"At Risk (High Value)"
+C5072,"Customer C5072",737,1,1154.800048828125,Churned/Lost
+C6415,"Customer C6415",256,2,4340.669921875,"At Risk (High Value)"
+C3490,"Customer C3490",253,1,3178.39990234375,"At Risk (High Value)"
+C2872,"Customer C2872",427,1,124.4800033569336,Churned/Lost
+C5085,"Customer C5085",432,2,6551.920166015625,"At Risk (High Value)"
+C5020,"Customer C5020",551,1,1469.6800537109375,Churned/Lost
+C1772,"Customer C1772",162,1,3117.590087890625,Potential/Standard
+C4437,"Customer C4437",420,2,7527.7498779296875,"At Risk (High Value)"
+C7360,"Customer C7360",128,1,1091.219970703125,Potential/Standard
+C5402,"Customer C5402",796,2,4372.940002441406,"At Risk (High Value)"
+C7651,"Customer C7651",391,1,55.849998474121094,Churned/Lost
+C2341,"Customer C2341",165,1,386.92999267578125,Potential/Standard
+C8509,"Customer C8509",658,1,1590.4000244140625,Churned/Lost
+C1528,"Customer C1528",433,2,7815.35986328125,"At Risk (High Value)"
+C5002,"Customer C5002",54,1,2844.239990234375,Potential/Standard
+C2323,"Customer C2323",431,1,36.119998931884766,Churned/Lost
+C1503,"Customer C1503",313,1,1517.93994140625,Potential/Standard
+C1785,"Customer C1785",77,1,77.69999694824219,Potential/Standard
+C2985,"Customer C2985",480,2,6794.1097412109375,"At Risk (High Value)"
+C5925,"Customer C5925",296,1,4063.080078125,"At Risk (High Value)"
+C6149,"Customer C6149",7,2,4850.6400146484375,Potential/Standard
+C9706,"Customer C9706",358,1,2439.85009765625,"At Risk (High Value)"
+C7304,"Customer C7304",36,1,2522.199951171875,Potential/Standard
+C4001,"Customer C4001",59,1,2232.719970703125,Potential/Standard
+C7194,"Customer C7194",678,1,3513.679931640625,"At Risk (High Value)"
+C2973,"Customer C2973",833,1,3221.820068359375,"At Risk (High Value)"
+C4452,"Customer C4452",329,2,3001.3200874328613,"At Risk (High Value)"
+C7045,"Customer C7045",892,1,1500.199951171875,Churned/Lost
+C1862,"Customer C1862",779,1,2606.719970703125,"At Risk (High Value)"
+C5282,"Customer C5282",612,1,1514.06005859375,Churned/Lost
+C5412,"Customer C5412",175,1,3993.719970703125,Potential/Standard
+C1835,"Customer C1835",837,1,655.260009765625,Churned/Lost
+C3872,"Customer C3872",511,1,1622.3900146484375,Churned/Lost
+C6147,"Customer C6147",9,1,709.5,Potential/Standard
+C3745,"Customer C3745",340,2,2336.5599975585938,"At Risk (High Value)"
+C2613,"Customer C2613",226,1,575.0999755859375,Potential/Standard
+C5366,"Customer C5366",435,1,1594.56005859375,Churned/Lost
+C4219,"Customer C4219",3,1,469.67999267578125,Potential/Standard
+C2697,"Customer C2697",545,1,2836.56005859375,"At Risk (High Value)"
+C7994,"Customer C7994",442,1,1476.1500244140625,Churned/Lost
+C7899,"Customer C7899",92,1,3114.47998046875,Potential/Standard
+C9893,"Customer C9893",205,2,2585.9300537109375,"At Risk (High Value)"
+C9137,"Customer C9137",745,1,4699.4501953125,"At Risk (High Value)"
+C1312,"Customer C1312",389,2,5842.599853515625,"At Risk (High Value)"
+C3788,"Customer C3788",210,1,656.8499755859375,Potential/Standard
+C9625,"Customer C9625",841,1,1343.4000244140625,Churned/Lost
+C2409,"Customer C2409",732,1,1008.2000122070312,Churned/Lost
+C2593,"Customer C2593",75,1,4966.85009765625,Potential/Standard
+C3923,"Customer C3923",704,1,1008.280029296875,Churned/Lost
+C8877,"Customer C8877",395,1,789.77001953125,Churned/Lost
+C2227,"Customer C2227",258,2,3291.3800354003906,"At Risk (High Value)"
+C1427,"Customer C1427",283,1,3257.949951171875,"At Risk (High Value)"
+C9700,"Customer C9700",308,2,1115.75,Potential/Standard
+C8203,"Customer C8203",220,1,4765.080078125,"At Risk (High Value)"
+C7795,"Customer C7795",548,1,1304.6099853515625,Churned/Lost
+C9797,"Customer C9797",696,1,584.0999755859375,Churned/Lost
+C7846,"Customer C7846",399,1,1683.780029296875,Churned/Lost
+C9244,"Customer C9244",95,1,517.9199829101562,Potential/Standard
+C3180,"Customer C3180",316,1,1663.52001953125,Potential/Standard
+C7195,"Customer C7195",186,1,722.4000244140625,Potential/Standard
+C9074,"Customer C9074",104,1,4901.919921875,Potential/Standard
+C7784,"Customer C7784",210,1,711.1500244140625,Potential/Standard
+C3231,"Customer C3231",11,2,934.2799682617188,Potential/Standard
+C9011,"Customer C9011",34,1,3065.929931640625,Potential/Standard
+C6503,"Customer C6503",807,1,1449.3299560546875,Churned/Lost
+C8981,"Customer C8981",459,1,602.3800048828125,Churned/Lost
+C9541,"Customer C9541",210,1,3346.159912109375,"At Risk (High Value)"
+C5728,"Customer C5728",117,1,2364.8798828125,Potential/Standard
+C1596,"Customer C1596",663,1,1292.06005859375,Churned/Lost
+C9965,"Customer C9965",303,1,2207.60009765625,"At Risk (High Value)"
+C1151,"Customer C1151",336,1,24.84000015258789,Potential/Standard
+C8480,"Customer C8480",526,1,3708.60009765625,"At Risk (High Value)"
+C7031,"Customer C7031",668,1,1485.02001953125,Churned/Lost
+C1623,"Customer C1623",767,1,2471.280029296875,"At Risk (High Value)"
+C4512,"Customer C4512",107,1,1284.27001953125,Potential/Standard
+C6145,"Customer C6145",769,1,1894.719970703125,Churned/Lost
+C8469,"Customer C8469",786,1,1814.449951171875,Churned/Lost
+C9947,"Customer C9947",772,1,1126.5999755859375,Churned/Lost
+C6780,"Customer C6780",258,1,261.1199951171875,Potential/Standard
+C5216,"Customer C5216",32,1,2201.10009765625,Potential/Standard
+C5813,"Customer C5813",35,1,1248.3199462890625,Potential/Standard
+C8001,"Customer C8001",293,1,3868.550048828125,"At Risk (High Value)"
+C5687,"Customer C5687",267,1,5481.97998046875,"At Risk (High Value)"
+C9094,"Customer C9094",298,1,2748.39990234375,"At Risk (High Value)"
+C8246,"Customer C8246",635,1,1791.280029296875,Churned/Lost
+C4402,"Customer C4402",796,1,1561.739990234375,Churned/Lost
+C5598,"Customer C5598",224,1,5623.1201171875,"At Risk (High Value)"
+C8220,"Customer C8220",75,2,3626.5299072265625,Potential/Standard
+C1634,"Customer C1634",81,1,5717.0400390625,Potential/Standard
+C8085,"Customer C8085",562,1,234.44000244140625,Churned/Lost
+C2241,"Customer C2241",313,1,2720,"At Risk (High Value)"
+C9756,"Customer C9756",223,1,2373.60009765625,"At Risk (High Value)"
+C9667,"Customer C9667",267,1,2117.93994140625,"At Risk (High Value)"
+C8104,"Customer C8104",345,1,2376.06005859375,"At Risk (High Value)"
+C1770,"Customer C1770",134,1,1594.8800048828125,Potential/Standard
+C4858,"Customer C4858",502,1,406.3800048828125,Churned/Lost
+C7785,"Customer C7785",657,1,274.8800048828125,Churned/Lost
+C2751,"Customer C2751",153,2,2843.1801147460938,Potential/Standard
+C5410,"Customer C5410",189,1,5705.68017578125,"At Risk (High Value)"
+C5007,"Customer C5007",349,2,2164.530059814453,"At Risk (High Value)"
+C2704,"Customer C2704",170,1,1409.0400390625,Potential/Standard
+C3900,"Customer C3900",534,1,3758.39990234375,"At Risk (High Value)"
+C9033,"Customer C9033",377,1,2158.889892578125,"At Risk (High Value)"
+C9760,"Customer C9760",652,1,2403.0400390625,"At Risk (High Value)"
+C6239,"Customer C6239",712,1,4524.9599609375,"At Risk (High Value)"
+C5759,"Customer C5759",15,2,2124.0299377441406,Potential/Standard
+C5745,"Customer C5745",98,1,1430.280029296875,Potential/Standard
+C2077,"Customer C2077",535,1,980.760009765625,Churned/Lost
+C3656,"Customer C3656",761,1,1018.5599975585938,Churned/Lost
+C8210,"Customer C8210",118,1,2081.050048828125,Potential/Standard
+C3765,"Customer C3765",72,2,1338.9599914550781,Potential/Standard
+C7357,"Customer C7357",633,2,945.0099811553955,Churned/Lost
+C8311,"Customer C8311",126,2,2437.320068359375,Potential/Standard
+C5639,"Customer C5639",78,2,2272.280029296875,Potential/Standard
+C3144,"Customer C3144",269,1,700.3800048828125,Potential/Standard
+C2491,"Customer C2491",195,1,2952.06005859375,"At Risk (High Value)"
+C9693,"Customer C9693",747,1,1536.300048828125,Churned/Lost
+C5579,"Customer C5579",27,1,1178.0400390625,Potential/Standard
+C7878,"Customer C7878",78,1,4659.77978515625,Potential/Standard
+C3285,"Customer C3285",40,1,1863.8800048828125,Potential/Standard
+C4549,"Customer C4549",162,1,2018.280029296875,Potential/Standard
+C8109,"Customer C8109",12,1,3384.989990234375,Potential/Standard
+C7438,"Customer C7438",135,1,446.0799865722656,Potential/Standard
+C7645,"Customer C7645",722,1,702.9000244140625,Churned/Lost
+C1009,"Customer C1009",415,1,2264.1298828125,"At Risk (High Value)"
+C5543,"Customer C5543",477,1,781.8499755859375,Churned/Lost
+C9464,"Customer C9464",754,1,243.9499969482422,Churned/Lost
+C5096,"Customer C5096",618,1,2637.8798828125,"At Risk (High Value)"
+C9620,"Customer C9620",819,1,1923.9000244140625,Churned/Lost
+C3505,"Customer C3505",177,1,1889.3399658203125,Potential/Standard
+C1675,"Customer C1675",556,1,4586.60986328125,"At Risk (High Value)"
+C4446,"Customer C4446",306,2,6294.079833984375,"At Risk (High Value)"
+C8856,"Customer C8856",697,1,862.4400024414062,Churned/Lost
+C9678,"Customer C9678",211,3,5767.150146484375,"At Risk (High Value)"
+C6018,"Customer C6018",352,1,333.239990234375,Potential/Standard
+C6753,"Customer C6753",6,1,660,Potential/Standard
+C8997,"Customer C8997",96,1,1573.449951171875,Potential/Standard
+C4715,"Customer C4715",338,1,1355,Potential/Standard
+C9337,"Customer C9337",213,1,31.079999923706055,Potential/Standard
+C3006,"Customer C3006",57,1,2015.5799560546875,Potential/Standard
+C1166,"Customer C1166",617,1,1673.280029296875,Churned/Lost
+C5993,"Customer C5993",907,1,900.1300048828125,Churned/Lost
+C4133,"Customer C4133",752,1,3098.639892578125,"At Risk (High Value)"
+C3385,"Customer C3385",501,1,2990.75,"At Risk (High Value)"
+C8322,"Customer C8322",450,1,281.2799987792969,Churned/Lost
+C8169,"Customer C8169",819,1,1775.5799560546875,Churned/Lost
+C1840,"Customer C1840",835,1,1775.47998046875,Churned/Lost
+C3356,"Customer C3356",240,1,626.9199829101562,Potential/Standard
+C1631,"Customer C1631",190,1,1730.469970703125,Potential/Standard
+C7535,"Customer C7535",172,1,826.6799926757812,Potential/Standard
+C5803,"Customer C5803",240,1,1919.3699951171875,Potential/Standard
+C3288,"Customer C3288",166,1,699.3200073242188,Potential/Standard
+C5332,"Customer C5332",458,1,811.8800048828125,Churned/Lost
+C1988,"Customer C1988",551,1,1537.0799560546875,Churned/Lost
+C8966,"Customer C8966",810,1,314,Churned/Lost
+C5882,"Customer C5882",755,1,315.9200134277344,Churned/Lost
+C8648,"Customer C8648",448,1,1551.56005859375,Churned/Lost
+C4705,"Customer C4705",261,2,4819.760009765625,"At Risk (High Value)"
+C2312,"Customer C2312",574,1,2772,"At Risk (High Value)"
+C9511,"Customer C9511",119,2,1324.1199951171875,Potential/Standard
+C1059,"Customer C1059",77,1,4043.840087890625,Potential/Standard
+C2215,"Customer C2215",272,1,559.530029296875,Potential/Standard
+C5169,"Customer C5169",797,2,1742.6400451660156,Churned/Lost
+C9312,"Customer C9312",697,1,1104.6400146484375,Churned/Lost
+C5929,"Customer C5929",536,1,2149.550048828125,"At Risk (High Value)"
+C5964,"Customer C5964",406,1,5143.27978515625,"At Risk (High Value)"
+C2172,"Customer C2172",195,1,65.91999816894531,Potential/Standard
+C9209,"Customer C9209",150,1,2125.02001953125,Potential/Standard
+C4639,"Customer C4639",385,1,3119.199951171875,"At Risk (High Value)"
+C2263,"Customer C2263",5,1,2344.47998046875,Potential/Standard
+C1786,"Customer C1786",57,1,572.530029296875,Potential/Standard
+C7487,"Customer C7487",47,2,481.9000053405762,Potential/Standard
+C7107,"Customer C7107",295,1,2484.760009765625,"At Risk (High Value)"
+C1645,"Customer C1645",752,1,5421.43994140625,"At Risk (High Value)"
+C9039,"Customer C9039",11,2,1783.68994140625,Potential/Standard
+C5776,"Customer C5776",349,1,3889.679931640625,"At Risk (High Value)"
+C1118,"Customer C1118",690,1,655.1599731445312,Churned/Lost
+C8933,"Customer C8933",48,1,3167.4599609375,Potential/Standard
+C4037,"Customer C4037",116,1,1533.8499755859375,Potential/Standard
+C8440,"Customer C8440",154,1,1352.800048828125,Potential/Standard
+C5267,"Customer C5267",425,2,1235.030029296875,Churned/Lost
+C3772,"Customer C3772",98,1,198.47000122070312,Potential/Standard
+C3428,"Customer C3428",39,1,3591.5400390625,Potential/Standard
+C4745,"Customer C4745",888,1,1069.949951171875,Churned/Lost
+C3659,"Customer C3659",600,1,5317.68017578125,"At Risk (High Value)"
+C6647,"Customer C6647",848,1,2469.719970703125,"At Risk (High Value)"
+C8156,"Customer C8156",637,1,88.5999984741211,Churned/Lost
+C8988,"Customer C8988",79,2,3615.5599365234375,Potential/Standard
+C2026,"Customer C2026",388,1,287.739990234375,Churned/Lost
+C6070,"Customer C6070",735,1,2803.639892578125,"At Risk (High Value)"
+C3658,"Customer C3658",508,2,1976.0099792480469,Churned/Lost
+C9771,"Customer C9771",423,1,1767.56005859375,Churned/Lost
+C1280,"Customer C1280",141,3,7016.529846191406,Potential/Standard
+C9237,"Customer C9237",390,1,120.3499984741211,Churned/Lost
+C6759,"Customer C6759",681,1,2405.679931640625,"At Risk (High Value)"
+C3839,"Customer C3839",15,1,308.20001220703125,Potential/Standard
+C5898,"Customer C5898",187,2,4453.629913330078,"At Risk (High Value)"
+C1170,"Customer C1170",124,1,940.6799926757812,Potential/Standard
+C4953,"Customer C4953",449,1,1108.780029296875,Churned/Lost
+C3439,"Customer C3439",437,1,237.60000610351562,Churned/Lost
+C9101,"Customer C9101",78,1,1867.5999755859375,Potential/Standard
+C5797,"Customer C5797",260,1,585.9000244140625,Potential/Standard
+C4785,"Customer C4785",809,1,813.780029296875,Churned/Lost
+C3124,"Customer C3124",620,1,454.5799865722656,Churned/Lost
+C9009,"Customer C9009",388,1,3091.60009765625,"At Risk (High Value)"
+C6024,"Customer C6024",634,1,211.17999267578125,Churned/Lost
+C9175,"Customer C9175",399,1,1883.93994140625,Churned/Lost
+C1529,"Customer C1529",171,1,1244.3900146484375,Potential/Standard
+C4199,"Customer C4199",722,1,3585.469970703125,"At Risk (High Value)"
+C2981,"Customer C2981",134,2,4813.109848022461,Potential/Standard
+C6560,"Customer C6560",488,1,545.0399780273438,Churned/Lost
+C8333,"Customer C8333",785,1,1785.800048828125,Churned/Lost
+C7291,"Customer C7291",771,2,3736.280029296875,"At Risk (High Value)"
+C9606,"Customer C9606",445,1,781.02001953125,Churned/Lost
+C8236,"Customer C8236",594,1,1300.3499755859375,Churned/Lost
+C8417,"Customer C8417",860,1,4031.679931640625,"At Risk (High Value)"
+C8293,"Customer C8293",724,1,1283.3399658203125,Churned/Lost
+C9484,"Customer C9484",756,1,153.4499969482422,Churned/Lost
+C1086,"Customer C1086",122,1,761.75,Potential/Standard
+C6063,"Customer C6063",386,1,3277.360107421875,"At Risk (High Value)"
+C5842,"Customer C5842",902,1,584.280029296875,Churned/Lost
+C9925,"Customer C9925",351,1,3147.0400390625,"At Risk (High Value)"
+C6458,"Customer C6458",599,1,1983.0400390625,Churned/Lost
+C8476,"Customer C8476",644,1,2555.760009765625,"At Risk (High Value)"
+C7530,"Customer C7530",591,1,1323.030029296875,Churned/Lost
+C6776,"Customer C6776",453,2,1673.0700073242188,Churned/Lost
+C2636,"Customer C2636",644,1,1219.260009765625,Churned/Lost
+C4543,"Customer C4543",41,2,7198.22021484375,Potential/Standard
+C1706,"Customer C1706",676,1,906.47998046875,Churned/Lost
+C8067,"Customer C8067",310,1,1524.25,Potential/Standard
+C8455,"Customer C8455",190,2,4674.1099853515625,"At Risk (High Value)"
+C6758,"Customer C6758",521,1,1444.6400146484375,Churned/Lost
+C6524,"Customer C6524",73,1,81.83999633789062,Potential/Standard
+C5336,"Customer C5336",753,1,1292.4000244140625,Churned/Lost
+C8986,"Customer C8986",35,1,3463.360107421875,Potential/Standard
+C3214,"Customer C3214",165,2,1498.5400390625,Potential/Standard
+C2708,"Customer C2708",510,1,1978.9200439453125,Churned/Lost
+C8272,"Customer C8272",703,1,1237.1600341796875,Churned/Lost
+C2499,"Customer C2499",888,1,3380.7900390625,"At Risk (High Value)"
+C4272,"Customer C4272",502,2,777.02001953125,Churned/Lost
+C8795,"Customer C8795",222,1,4158.9599609375,"At Risk (High Value)"
+C7896,"Customer C7896",744,1,1169.0400390625,Churned/Lost
+C7132,"Customer C7132",165,1,349.70001220703125,Potential/Standard
+C8813,"Customer C8813",452,1,115.19999694824219,Churned/Lost
+C7147,"Customer C7147",761,1,530.2899780273438,Churned/Lost
+C7122,"Customer C7122",366,1,2647.639892578125,"At Risk (High Value)"
+C9835,"Customer C9835",757,1,1692.81005859375,Churned/Lost
+C8158,"Customer C8158",525,1,629.9400024414062,Churned/Lost
+C5614,"Customer C5614",139,1,1845.68994140625,Potential/Standard
+C4820,"Customer C4820",533,1,697.4199829101562,Churned/Lost
+C8245,"Customer C8245",177,1,783.1199951171875,Potential/Standard
+C6469,"Customer C6469",607,1,3977.679931640625,"At Risk (High Value)"
+C4237,"Customer C4237",821,1,432.3399963378906,Churned/Lost
+C8124,"Customer C8124",297,1,759.5399780273438,Potential/Standard
+C5971,"Customer C5971",403,1,3368.75,"At Risk (High Value)"
+C6316,"Customer C6316",331,1,82.88999938964844,Potential/Standard
+C3487,"Customer C3487",717,1,745.0800170898438,Churned/Lost
+C4025,"Customer C4025",898,1,1735.199951171875,Churned/Lost
+C2772,"Customer C2772",67,1,86.75,Potential/Standard
+C5690,"Customer C5690",244,1,4242.39990234375,"At Risk (High Value)"
+C9173,"Customer C9173",418,1,1095.199951171875,Churned/Lost
+C1014,"Customer C1014",423,1,448.79998779296875,Churned/Lost
+C5804,"Customer C5804",770,1,2784.47998046875,"At Risk (High Value)"
+C9650,"Customer C9650",382,1,3916.5,"At Risk (High Value)"
+C2095,"Customer C2095",577,1,414.6000061035156,Churned/Lost
+C3267,"Customer C3267",310,1,2495.25,"At Risk (High Value)"
+C4793,"Customer C4793",38,1,77.63999938964844,Potential/Standard
+C3925,"Customer C3925",410,1,1517.5,Churned/Lost
+C8628,"Customer C8628",86,1,1215,Potential/Standard
+C2436,"Customer C2436",563,1,142.4499969482422,Churned/Lost
+C3426,"Customer C3426",829,1,1096.8299560546875,Churned/Lost
+C2313,"Customer C2313",285,2,1448.0799560546875,Potential/Standard
+C2768,"Customer C2768",593,1,3511.050048828125,"At Risk (High Value)"
+C1728,"Customer C1728",853,1,880.4000244140625,Churned/Lost
+C8563,"Customer C8563",620,1,1425.6600341796875,Churned/Lost
+C3492,"Customer C3492",839,1,2594.699951171875,"At Risk (High Value)"
+C8229,"Customer C8229",252,1,195.44000244140625,Potential/Standard
+C3316,"Customer C3316",702,1,4782.81982421875,"At Risk (High Value)"
+C9986,"Customer C9986",429,1,2737.639892578125,"At Risk (High Value)"
+C6942,"Customer C6942",288,1,349.9800109863281,Potential/Standard
+C1186,"Customer C1186",141,2,1558.4699478149414,Potential/Standard
+C2125,"Customer C2125",708,1,2303.219970703125,"At Risk (High Value)"
+C3190,"Customer C3190",321,1,135.94000244140625,Potential/Standard
+C4896,"Customer C4896",841,1,1666.1099853515625,Churned/Lost
+C5037,"Customer C5037",59,1,41,Potential/Standard
+C7760,"Customer C7760",459,1,333.1600036621094,Churned/Lost
+C7989,"Customer C7989",119,1,1248.6600341796875,Potential/Standard
+C8121,"Customer C8121",807,1,520.9500122070312,Churned/Lost
+C7185,"Customer C7185",339,1,1550.18994140625,Potential/Standard
+C6442,"Customer C6442",261,1,264.92999267578125,Potential/Standard
+C3732,"Customer C3732",645,1,2033.1500244140625,"At Risk (High Value)"
+C4082,"Customer C4082",377,1,1595.7900390625,Churned/Lost
+C9524,"Customer C9524",345,1,3511.5,"At Risk (High Value)"
+C9958,"Customer C9958",382,1,218.83999633789062,Churned/Lost
+C1036,"Customer C1036",619,2,1013.0699768066406,Churned/Lost
+C9702,"Customer C9702",461,1,1418.199951171875,Churned/Lost
+C8406,"Customer C8406",402,1,600.4000244140625,Churned/Lost
+C7673,"Customer C7673",199,1,319,Potential/Standard
+C2860,"Customer C2860",804,1,1951.43994140625,Churned/Lost
+C7108,"Customer C7108",93,1,1242.0799560546875,Potential/Standard
+C5298,"Customer C5298",649,1,3915.60009765625,"At Risk (High Value)"
+C7523,"Customer C7523",628,1,2270.1298828125,"At Risk (High Value)"
+C6372,"Customer C6372",98,1,3254.949951171875,Potential/Standard
+C6156,"Customer C6156",460,1,2320.080078125,"At Risk (High Value)"
+C4169,"Customer C4169",300,2,1657.8899536132812,Potential/Standard
+C9957,"Customer C9957",717,1,1416.699951171875,Churned/Lost
+C4648,"Customer C4648",528,1,1493.489990234375,Churned/Lost
+C4859,"Customer C4859",855,1,402.3999938964844,Churned/Lost
+C9037,"Customer C9037",225,1,2537.5,"At Risk (High Value)"
+C7621,"Customer C7621",510,1,1341.280029296875,Churned/Lost
+C9034,"Customer C9034",200,1,569.260009765625,Potential/Standard
+C6584,"Customer C6584",540,1,656.2000122070312,Churned/Lost
+C2696,"Customer C2696",802,1,2538,"At Risk (High Value)"
+C6170,"Customer C6170",604,1,3207.199951171875,"At Risk (High Value)"
+C5535,"Customer C5535",269,1,157.36000061035156,Potential/Standard
+C3960,"Customer C3960",759,1,1180.43994140625,Churned/Lost
+C4333,"Customer C4333",442,1,348.0899963378906,Churned/Lost
+C9581,"Customer C9581",75,1,2949.199951171875,Potential/Standard
+C1765,"Customer C1765",194,1,1649.3399658203125,Potential/Standard
+C8796,"Customer C8796",853,1,752.760009765625,Churned/Lost
+C7799,"Customer C7799",612,1,1591.6500244140625,Churned/Lost
+C1587,"Customer C1587",681,1,1754.219970703125,Churned/Lost
+C3056,"Customer C3056",356,1,184.5,Potential/Standard
+C7457,"Customer C7457",338,1,4442.22021484375,"At Risk (High Value)"
+C4413,"Customer C4413",558,1,1142.3599853515625,Churned/Lost
+C7999,"Customer C7999",346,1,1606.6500244140625,Potential/Standard
+C6627,"Customer C6627",519,1,1257.050048828125,Churned/Lost
+C4690,"Customer C4690",98,1,1169.0400390625,Potential/Standard
+C8727,"Customer C8727",864,1,1731.3900146484375,Churned/Lost
+C7462,"Customer C7462",415,1,2477.320068359375,"At Risk (High Value)"
+C1296,"Customer C1296",610,1,2392.47998046875,"At Risk (High Value)"
+C8751,"Customer C8751",877,1,3228,"At Risk (High Value)"
+C6278,"Customer C6278",52,1,2833.800048828125,Potential/Standard
+C5514,"Customer C5514",663,1,608.4400024414062,Churned/Lost
+C5504,"Customer C5504",609,1,376.0199890136719,Churned/Lost
+C2865,"Customer C2865",55,1,2134.43994140625,Potential/Standard
+C3364,"Customer C3364",730,2,4103.43994140625,"At Risk (High Value)"
+C4755,"Customer C4755",576,1,55.880001068115234,Churned/Lost
+C4013,"Customer C4013",516,1,1747.550048828125,Churned/Lost
+C6614,"Customer C6614",191,1,188.6999969482422,Potential/Standard
+C5482,"Customer C5482",56,1,2290.8798828125,Potential/Standard
+C3677,"Customer C3677",197,1,3071.60009765625,"At Risk (High Value)"
+C5933,"Customer C5933",203,1,1209.3900146484375,Potential/Standard
+C5348,"Customer C5348",314,1,3206.139892578125,"At Risk (High Value)"
+C1470,"Customer C1470",195,1,40.959999084472656,Potential/Standard
+C4479,"Customer C4479",9,1,165.94000244140625,Potential/Standard
+C2379,"Customer C2379",369,1,211.3000030517578,Churned/Lost
+C2401,"Customer C2401",78,1,1034,Potential/Standard
+C6079,"Customer C6079",646,1,703.260009765625,Churned/Lost
+C3498,"Customer C3498",428,1,461.8500061035156,Churned/Lost
+C8741,"Customer C8741",273,2,1714.1399841308594,Potential/Standard
+C4069,"Customer C4069",380,2,6500.469970703125,"At Risk (High Value)"
+C4451,"Customer C4451",19,1,3821.85009765625,Potential/Standard
+C7544,"Customer C7544",197,1,4093.60009765625,"At Risk (High Value)"
+C7004,"Customer C7004",380,1,2244.64990234375,"At Risk (High Value)"
+C4822,"Customer C4822",556,1,2292.760009765625,"At Risk (High Value)"
+C6424,"Customer C6424",52,2,4093.100088119507,Potential/Standard
+C2011,"Customer C2011",24,2,807.3900299072266,Potential/Standard
+C1482,"Customer C1482",588,1,1141.5,Churned/Lost
+C9229,"Customer C9229",485,1,1072.3499755859375,Churned/Lost
+C6441,"Customer C6441",118,1,4394.9599609375,Potential/Standard
+C5066,"Customer C5066",401,1,511.82000732421875,Churned/Lost
+C8642,"Customer C8642",800,1,1341.760009765625,Churned/Lost
+C7510,"Customer C7510",48,1,47.65999984741211,Potential/Standard
+C5975,"Customer C5975",131,1,4678.64013671875,Potential/Standard
+C2406,"Customer C2406",490,1,1887.1800537109375,Churned/Lost
+C9248,"Customer C9248",622,1,3471.06005859375,"At Risk (High Value)"
+C2232,"Customer C2232",636,1,4946.47998046875,"At Risk (High Value)"
+C3932,"Customer C3932",264,1,458.6600036621094,Potential/Standard
+C2191,"Customer C2191",196,1,2376.360107421875,"At Risk (High Value)"
+C4901,"Customer C4901",8,1,1999.1300048828125,Potential/Standard
+C5830,"Customer C5830",221,1,4719.43994140625,"At Risk (High Value)"
+C7526,"Customer C7526",176,1,85.22000122070312,Potential/Standard
+C6632,"Customer C6632",799,1,358.6499938964844,Churned/Lost
+C4118,"Customer C4118",230,2,2269.5400390625,"At Risk (High Value)"
+C7661,"Customer C7661",722,1,3924.760009765625,"At Risk (High Value)"
+C6873,"Customer C6873",178,1,12.699999809265137,Potential/Standard
+C1570,"Customer C1570",217,1,2465.889892578125,"At Risk (High Value)"
+C3533,"Customer C3533",888,1,50.029998779296875,Churned/Lost
+C9318,"Customer C9318",28,1,3651,Potential/Standard
+C7243,"Customer C7243",201,1,624.7999877929688,Potential/Standard
+C2378,"Customer C2378",690,2,3303.860107421875,"At Risk (High Value)"
+C4604,"Customer C4604",1,1,1268.52001953125,Potential/Standard
+C2969,"Customer C2969",142,1,42.47999954223633,Potential/Standard
+C1544,"Customer C1544",588,1,4549.68017578125,"At Risk (High Value)"
+C5779,"Customer C5779",663,1,963.4000244140625,Churned/Lost
+C9206,"Customer C9206",435,1,782.1199951171875,Churned/Lost
+C7331,"Customer C7331",454,1,724.6500244140625,Churned/Lost
+C4370,"Customer C4370",236,1,4112.35986328125,"At Risk (High Value)"
+C4980,"Customer C4980",216,1,4134.16015625,"At Risk (High Value)"
+C7617,"Customer C7617",142,1,485.6000061035156,Potential/Standard
+C5265,"Customer C5265",365,1,1042.239990234375,Potential/Standard
+C4790,"Customer C4790",107,2,3244.1201171875,Potential/Standard
+C3579,"Customer C3579",103,1,2112.199951171875,Potential/Standard
+C3663,"Customer C3663",279,1,698.7999877929688,Potential/Standard
+C9000,"Customer C9000",240,1,429.20001220703125,Potential/Standard
+C5617,"Customer C5617",104,1,1821.6800537109375,Potential/Standard
+C1030,"Customer C1030",720,1,1710.449951171875,Churned/Lost
+C5417,"Customer C5417",434,1,856.719970703125,Churned/Lost
+C1334,"Customer C1334",265,1,4344.47998046875,"At Risk (High Value)"
+C4231,"Customer C4231",647,1,1021.5999755859375,Churned/Lost
+C7830,"Customer C7830",182,1,1492.3199462890625,Potential/Standard
+C5571,"Customer C5571",519,1,2025.780029296875,"At Risk (High Value)"
+C7250,"Customer C7250",242,1,1321.8399658203125,Potential/Standard
+C1694,"Customer C1694",169,1,5406.47998046875,Potential/Standard
+C8327,"Customer C8327",111,1,4234.43994140625,Potential/Standard
+C2471,"Customer C2471",298,1,5274,"At Risk (High Value)"
+C8263,"Customer C8263",595,1,124.70999908447266,Churned/Lost
+C8851,"Customer C8851",488,1,4624.47998046875,"At Risk (High Value)"
+C3555,"Customer C3555",215,1,165.4499969482422,Potential/Standard
+C3759,"Customer C3759",324,1,4233.60009765625,"At Risk (High Value)"
+C2461,"Customer C2461",349,1,2249.550048828125,"At Risk (High Value)"
+C3383,"Customer C3383",132,1,1954.8499755859375,Potential/Standard
+C1517,"Customer C1517",484,2,4994.85009765625,"At Risk (High Value)"
+C9130,"Customer C9130",781,1,933,Churned/Lost
+C5091,"Customer C5091",183,1,3117.43994140625,"At Risk (High Value)"
+C4311,"Customer C4311",232,1,3146.239990234375,"At Risk (High Value)"
+C2228,"Customer C2228",123,1,3110.639892578125,Potential/Standard
+C1113,"Customer C1113",113,1,4973.2001953125,Potential/Standard
+C9614,"Customer C9614",61,2,6975.050048828125,Potential/Standard
+C8292,"Customer C8292",87,1,373.32000732421875,Potential/Standard
+C1325,"Customer C1325",119,1,2356.9599609375,Potential/Standard
+C7413,"Customer C7413",185,1,238.0800018310547,Potential/Standard
+C6218,"Customer C6218",387,1,5236.14013671875,"At Risk (High Value)"
+C1200,"Customer C1200",439,1,1574.280029296875,Churned/Lost
+C5204,"Customer C5204",465,1,6379.68017578125,"At Risk (High Value)"
+C2823,"Customer C2823",543,1,561.3300170898438,Churned/Lost
+C3217,"Customer C3217",701,1,5297.9501953125,"At Risk (High Value)"
+C1362,"Customer C1362",143,1,2930.10009765625,Potential/Standard
+C9739,"Customer C9739",12,1,1568.52001953125,Potential/Standard
+C6029,"Customer C6029",243,1,2060.10009765625,"At Risk (High Value)"
+C7231,"Customer C7231",358,1,127.54000091552734,Potential/Standard
+C2930,"Customer C2930",213,1,674.9099731445312,Potential/Standard
+C1391,"Customer C1391",204,1,1645.4000244140625,Potential/Standard
+C2102,"Customer C2102",468,1,237.1999969482422,Churned/Lost
+C2945,"Customer C2945",753,1,3015.8798828125,"At Risk (High Value)"
+C4597,"Customer C4597",753,1,2947.0400390625,"At Risk (High Value)"
+C9636,"Customer C9636",7,1,767.6900024414062,Potential/Standard
+C5185,"Customer C5185",906,1,228.77999877929688,Churned/Lost
+C5039,"Customer C5039",181,1,2118.659912109375,"At Risk (High Value)"
+C4979,"Customer C4979",180,1,3055.199951171875,Potential/Standard
+C7052,"Customer C7052",42,1,1661.0999755859375,Potential/Standard
+C8507,"Customer C8507",607,2,5539.8798828125,"At Risk (High Value)"
+C3679,"Customer C3679",904,1,947.6400146484375,Churned/Lost
+C8869,"Customer C8869",243,1,1427.5799560546875,Potential/Standard
+C7298,"Customer C7298",745,1,464.3800048828125,Churned/Lost
+C1301,"Customer C1301",521,1,4105.27978515625,"At Risk (High Value)"
+C4465,"Customer C4465",611,1,2176,"At Risk (High Value)"
+C1326,"Customer C1326",780,1,3257.93994140625,"At Risk (High Value)"
+C8555,"Customer C8555",445,1,49.02000045776367,Churned/Lost
+C2443,"Customer C2443",331,1,6017.68017578125,"At Risk (High Value)"
+C3311,"Customer C3311",675,1,5205.759765625,"At Risk (High Value)"
+C8299,"Customer C8299",550,2,5678.0601806640625,"At Risk (High Value)"
+C5708,"Customer C5708",867,1,2470.949951171875,"At Risk (High Value)"
+C5981,"Customer C5981",766,1,2144.639892578125,"At Risk (High Value)"
+C3313,"Customer C3313",39,1,2033.9599609375,Potential/Standard
+C9021,"Customer C9021",136,1,713.7899780273438,Potential/Standard
+C7242,"Customer C7242",425,1,50.189998626708984,Churned/Lost
+C3440,"Customer C3440",46,1,3097.64990234375,Potential/Standard
+C6498,"Customer C6498",346,1,120.63999938964844,Potential/Standard
+C2873,"Customer C2873",90,1,1174.739990234375,Potential/Standard
+C5968,"Customer C5968",360,1,2817.35009765625,"At Risk (High Value)"
+C3723,"Customer C3723",629,1,2114.47998046875,"At Risk (High Value)"
+C3647,"Customer C3647",216,1,3163.679931640625,"At Risk (High Value)"
+C5102,"Customer C5102",845,1,287.20001220703125,Churned/Lost
+C9225,"Customer C9225",459,1,1269.8399658203125,Churned/Lost
+C9517,"Customer C9517",654,1,3925.739990234375,"At Risk (High Value)"
+C1078,"Customer C1078",596,1,1133.050048828125,Churned/Lost
+C2029,"Customer C2029",911,1,1680.8499755859375,Churned/Lost
+C6985,"Customer C6985",332,1,264.9800109863281,Potential/Standard
+C7782,"Customer C7782",722,1,1329.4200439453125,Churned/Lost
+C6215,"Customer C6215",371,1,1242.3299560546875,Churned/Lost
+C6373,"Customer C6373",562,1,660,Churned/Lost
+C6526,"Customer C6526",249,1,210.0500030517578,Potential/Standard
+C7287,"Customer C7287",138,1,346.5199890136719,Potential/Standard
+C6228,"Customer C6228",520,1,75.19999694824219,Churned/Lost
+C3497,"Customer C3497",577,1,745,Churned/Lost
+C6164,"Customer C6164",219,1,3588.39990234375,"At Risk (High Value)"
+C4588,"Customer C4588",3,1,621.280029296875,Potential/Standard
+C1232,"Customer C1232",477,1,102.9000015258789,Churned/Lost
+C3714,"Customer C3714",408,1,556.4000244140625,Churned/Lost
+C3236,"Customer C3236",46,1,51.540000915527344,Potential/Standard
+C2411,"Customer C2411",590,1,929.0999755859375,Churned/Lost
+C8622,"Customer C8622",52,2,1621.0499877929688,Potential/Standard
+C6020,"Customer C6020",195,1,530.6799926757812,Potential/Standard
+C5481,"Customer C5481",911,1,3028.919921875,"At Risk (High Value)"
+C4136,"Customer C4136",272,1,698.52001953125,Potential/Standard
+C8065,"Customer C8065",204,1,3019.52001953125,"At Risk (High Value)"
+C6729,"Customer C6729",583,1,310.8299865722656,Churned/Lost
+C4225,"Customer C4225",467,1,1008.260009765625,Churned/Lost
+C8230,"Customer C8230",601,1,3447.60009765625,"At Risk (High Value)"
+C2687,"Customer C2687",136,1,403.3999938964844,Potential/Standard
+C5595,"Customer C5595",863,1,990.8099975585938,Churned/Lost
+C6203,"Customer C6203",130,2,4133.5999755859375,Potential/Standard
+C8789,"Customer C8789",593,2,2075.1800537109375,"At Risk (High Value)"
+C1927,"Customer C1927",757,1,2173.550048828125,"At Risk (High Value)"
+C4332,"Customer C4332",493,2,2200.479949951172,"At Risk (High Value)"
+C3979,"Customer C3979",496,2,8386.72998046875,"At Risk (High Value)"
+C7557,"Customer C7557",163,2,3731.6099853515625,Potential/Standard
+C5240,"Customer C5240",685,1,2987.199951171875,"At Risk (High Value)"
+C8884,"Customer C8884",416,1,458.5199890136719,Churned/Lost
+C5572,"Customer C5572",250,1,1911.5999755859375,Potential/Standard
+C6341,"Customer C6341",503,1,1772.0400390625,Churned/Lost
+C5568,"Customer C5568",867,1,1400.719970703125,Churned/Lost
+C1216,"Customer C1216",737,1,580.22998046875,Churned/Lost
+C3137,"Customer C3137",504,1,4842.16015625,"At Risk (High Value)"
+C8372,"Customer C8372",304,1,2419.080078125,"At Risk (High Value)"
+C4042,"Customer C4042",432,1,3650.56005859375,"At Risk (High Value)"
+C3920,"Customer C3920",482,1,1515.239990234375,Churned/Lost
+C2573,"Customer C2573",259,1,644.4199829101562,Potential/Standard
+C8303,"Customer C8303",12,1,586.5599975585938,Potential/Standard
+C3636,"Customer C3636",767,1,614.8800048828125,Churned/Lost
+C2802,"Customer C2802",690,1,817.239990234375,Churned/Lost
+C8923,"Customer C8923",805,1,2263.080078125,"At Risk (High Value)"
+C1003,"Customer C1003",903,1,2849.52001953125,"At Risk (High Value)"
+C1946,"Customer C1946",0,1,423.8399963378906,Potential/Standard
+C7163,"Customer C7163",566,1,3695.64990234375,"At Risk (High Value)"
+C3257,"Customer C3257",670,2,1947.0900268554688,Churned/Lost
+C3519,"Customer C3519",611,1,2003.760009765625,"At Risk (High Value)"
+C6676,"Customer C6676",272,1,110.05000305175781,Potential/Standard
+C4998,"Customer C4998",510,1,1182.93994140625,Churned/Lost
+C7027,"Customer C7027",1,2,936.4800415039062,Potential/Standard
+C2203,"Customer C2203",188,1,3858.840087890625,"At Risk (High Value)"
+C8328,"Customer C8328",200,1,2742.669921875,"At Risk (High Value)"
+C3976,"Customer C3976",53,2,1279.3899536132812,Potential/Standard
+C7680,"Customer C7680",684,1,4613.77001953125,"At Risk (High Value)"
+C8829,"Customer C8829",600,1,539.2999877929688,Churned/Lost
+C3251,"Customer C3251",441,1,1130.1500244140625,Churned/Lost
+C9750,"Customer C9750",338,1,2039.199951171875,"At Risk (High Value)"
+C9428,"Customer C9428",96,2,4196.260009765625,Potential/Standard
+C7405,"Customer C7405",400,1,3178.300048828125,"At Risk (High Value)"
+C3458,"Customer C3458",613,1,1819.9200439453125,Churned/Lost
+C8746,"Customer C8746",473,1,3629.5,"At Risk (High Value)"
+C6607,"Customer C6607",691,2,3672.56005859375,"At Risk (High Value)"
+C5320,"Customer C5320",778,1,746.8099975585938,Churned/Lost
+C3845,"Customer C3845",140,2,1917.3799743652344,Potential/Standard
+C4839,"Customer C4839",161,1,5238.10009765625,Potential/Standard
+C6350,"Customer C6350",478,1,1923.280029296875,Churned/Lost
+C3527,"Customer C3527",772,1,89.83999633789062,Churned/Lost
+C5506,"Customer C5506",585,1,252.0800018310547,Churned/Lost
+C4024,"Customer C4024",214,1,178.0800018310547,Potential/Standard
+C9717,"Customer C9717",233,1,1351.52001953125,Potential/Standard
+C7816,"Customer C7816",114,1,128.55999755859375,Potential/Standard
+C6871,"Customer C6871",409,2,3784.360107421875,"At Risk (High Value)"
+C1180,"Customer C1180",484,1,1371.780029296875,Churned/Lost
+C9079,"Customer C9079",576,1,4532.56005859375,"At Risk (High Value)"
+C5178,"Customer C5178",443,1,2874.360107421875,"At Risk (High Value)"
+C8449,"Customer C8449",402,1,385.8999938964844,Churned/Lost
+C4161,"Customer C4161",324,1,3895.360107421875,"At Risk (High Value)"
+C8260,"Customer C8260",885,1,755.4199829101562,Churned/Lost
+C5877,"Customer C5877",491,1,588.280029296875,Churned/Lost
+C5935,"Customer C5935",352,1,3173.8798828125,"At Risk (High Value)"
+C1822,"Customer C1822",614,1,1796.6800537109375,Churned/Lost
+C1338,"Customer C1338",466,1,562.1599731445312,Churned/Lost
+C7009,"Customer C7009",378,1,4286.8701171875,"At Risk (High Value)"
+C8077,"Customer C8077",269,1,2795.199951171875,"At Risk (High Value)"
+C3641,"Customer C3641",483,1,113.77999877929688,Churned/Lost
+C5544,"Customer C5544",842,1,256.9200134277344,Churned/Lost
+C9446,"Customer C9446",780,1,707.1599731445312,Churned/Lost
+C3722,"Customer C3722",631,1,314.94000244140625,Churned/Lost
+C1319,"Customer C1319",82,1,637.3200073242188,Potential/Standard
+C5922,"Customer C5922",833,1,3485.719970703125,"At Risk (High Value)"
+C6723,"Customer C6723",241,2,3357.2098999023438,"At Risk (High Value)"
+C7409,"Customer C7409",499,1,5401.43994140625,"At Risk (High Value)"
+C5331,"Customer C5331",360,1,2091.56005859375,"At Risk (High Value)"
+C1483,"Customer C1483",59,1,425.2200012207031,Potential/Standard
+C1248,"Customer C1248",676,1,1915.1500244140625,Churned/Lost
+C3477,"Customer C3477",225,3,5825.289978027344,"At Risk (High Value)"
+C9443,"Customer C9443",760,1,114.83999633789062,Churned/Lost
+C4274,"Customer C4274",237,1,2995.1201171875,"At Risk (High Value)"
+C4699,"Customer C4699",804,1,3459.260009765625,"At Risk (High Value)"
+C4034,"Customer C4034",599,1,3121.47998046875,"At Risk (High Value)"
+C3926,"Customer C3926",482,1,4600.7998046875,"At Risk (High Value)"
+C4445,"Customer C4445",195,1,2287.35009765625,"At Risk (High Value)"
+C1588,"Customer C1588",4,1,1493.5799560546875,Potential/Standard
+C3970,"Customer C3970",175,1,1218.2099609375,Potential/Standard
+C8554,"Customer C8554",556,1,3150.909912109375,"At Risk (High Value)"
+C3081,"Customer C3081",106,1,759.510009765625,Potential/Standard
+C6559,"Customer C6559",12,1,52.439998626708984,Potential/Standard
+C4367,"Customer C4367",445,3,5633.099853515625,"At Risk (High Value)"
+C6028,"Customer C6028",523,2,1556.4300537109375,Churned/Lost
+C2063,"Customer C2063",318,2,1306.6199951171875,Potential/Standard
+C3076,"Customer C3076",541,1,3857.5,"At Risk (High Value)"
+C8618,"Customer C8618",780,1,2568.9599609375,"At Risk (High Value)"
+C3381,"Customer C3381",138,1,1472.4000244140625,Potential/Standard
+C2881,"Customer C2881",45,1,795.9199829101562,Potential/Standard
+C4730,"Customer C4730",638,1,5411.419921875,"At Risk (High Value)"
+C4685,"Customer C4685",410,1,4214.080078125,"At Risk (High Value)"
+C9159,"Customer C9159",797,1,591.239990234375,Churned/Lost
+C1854,"Customer C1854",145,2,5710.459899902344,Potential/Standard
+C1366,"Customer C1366",639,1,1443.780029296875,Churned/Lost
+C6636,"Customer C6636",283,1,2836.159912109375,"At Risk (High Value)"
+C7330,"Customer C7330",597,1,776.7899780273438,Churned/Lost
+C7613,"Customer C7613",513,1,1905.510009765625,Churned/Lost
+C2719,"Customer C2719",605,1,2319.330078125,"At Risk (High Value)"
+C3888,"Customer C3888",596,1,3177.280029296875,"At Risk (High Value)"
+C5790,"Customer C5790",170,1,2829.39990234375,Potential/Standard
+C6826,"Customer C6826",2,1,1879.6500244140625,Potential/Standard
+C7531,"Customer C7531",259,1,5210.72021484375,"At Risk (High Value)"
+C8257,"Customer C8257",129,2,737.3500366210938,Potential/Standard
+C4000,"Customer C4000",254,1,1668.4200439453125,Potential/Standard
+C1757,"Customer C1757",179,1,2709.280029296875,Potential/Standard
+C9093,"Customer C9093",25,1,2846.679931640625,Potential/Standard
+C4917,"Customer C4917",389,1,347.0799865722656,Churned/Lost
+C2967,"Customer C2967",853,1,1180.800048828125,Churned/Lost
+C8428,"Customer C8428",298,1,1950.800048828125,Potential/Standard
+C9984,"Customer C9984",634,1,782.0800170898438,Churned/Lost
+C8940,"Customer C8940",181,1,1192.72998046875,Potential/Standard
+C2090,"Customer C2090",464,1,705.2999877929688,Churned/Lost
+C1187,"Customer C1187",909,1,592.9199829101562,Churned/Lost
+C6011,"Customer C6011",349,1,702.52001953125,Potential/Standard
+C1215,"Customer C1215",724,1,977.52001953125,Churned/Lost
+C4992,"Customer C4992",192,2,4009.109892845154,"At Risk (High Value)"
+C6835,"Customer C6835",880,1,56.84000015258789,Churned/Lost
+C4686,"Customer C4686",681,1,3106.9599609375,"At Risk (High Value)"
+C9570,"Customer C9570",548,1,3117.1201171875,"At Risk (High Value)"
+C5000,"Customer C5000",350,1,3812.89990234375,"At Risk (High Value)"
+C1179,"Customer C1179",123,1,2584.469970703125,Potential/Standard
+C7631,"Customer C7631",99,2,3350.780029296875,Potential/Standard
+C1909,"Customer C1909",603,2,1855.3700561523438,Churned/Lost
+C9857,"Customer C9857",39,1,559.4000244140625,Potential/Standard
+C5591,"Customer C5591",658,1,4923.759765625,"At Risk (High Value)"
+C1023,"Customer C1023",425,1,1194.239990234375,Churned/Lost
+C7655,"Customer C7655",862,1,2420.389892578125,"At Risk (High Value)"
+C8711,"Customer C8711",256,1,1749.75,Potential/Standard
+C5032,"Customer C5032",99,3,3467.199951171875,Potential/Standard
+C1091,"Customer C1091",189,1,3000.840087890625,"At Risk (High Value)"
+C9749,"Customer C9749",321,1,740.4199829101562,Potential/Standard
+C4348,"Customer C4348",379,1,4904.68994140625,"At Risk (High Value)"
+C3161,"Customer C3161",222,1,1734.6600341796875,Potential/Standard
+C3059,"Customer C3059",274,1,678.219970703125,Potential/Standard
+C3402,"Customer C3402",175,1,1442.3499755859375,Potential/Standard
+C6737,"Customer C6737",119,1,264.4100036621094,Potential/Standard
+C7118,"Customer C7118",767,1,191.82000732421875,Churned/Lost
+C7167,"Customer C7167",685,1,2031.5400390625,"At Risk (High Value)"
+C9098,"Customer C9098",41,1,4662.35009765625,Potential/Standard
+C5311,"Customer C5311",165,2,6852.359893798828,Potential/Standard
+C8605,"Customer C8605",500,1,2022.9599609375,"At Risk (High Value)"
+C2161,"Customer C2161",330,1,2015.6500244140625,"At Risk (High Value)"
+C7444,"Customer C7444",190,1,571.02001953125,Potential/Standard
+C6953,"Customer C6953",852,1,90.4800033569336,Churned/Lost
+C1683,"Customer C1683",617,1,626.97998046875,Churned/Lost
+C7925,"Customer C7925",218,1,89.16999816894531,Potential/Standard
+C7628,"Customer C7628",80,1,5543.3701171875,Potential/Standard
+C7382,"Customer C7382",856,1,2449.8798828125,"At Risk (High Value)"
+C4501,"Customer C4501",577,1,836.1900024414062,Churned/Lost
+C1657,"Customer C1657",624,1,3069.199951171875,"At Risk (High Value)"
+C4226,"Customer C4226",553,1,1889.4000244140625,Churned/Lost
+C5999,"Customer C5999",437,1,438.6499938964844,Churned/Lost
+C1157,"Customer C1157",39,1,3478.199951171875,Potential/Standard
+C3472,"Customer C3472",51,1,5140.72021484375,Potential/Standard
+C3201,"Customer C3201",97,1,1121.5400390625,Potential/Standard
+C4475,"Customer C4475",20,1,45.29999923706055,Potential/Standard
+C3988,"Customer C3988",228,1,1536.1800537109375,Potential/Standard
+C9194,"Customer C9194",592,1,2585.280029296875,"At Risk (High Value)"
+C7496,"Customer C7496",81,1,1331.219970703125,Potential/Standard
+C1230,"Customer C1230",372,1,2279.60009765625,"At Risk (High Value)"
+C3160,"Customer C3160",307,1,4865.14013671875,"At Risk (High Value)"
+C2626,"Customer C2626",469,1,673.280029296875,Churned/Lost
+C1080,"Customer C1080",414,1,1133.550048828125,Churned/Lost
+C9913,"Customer C9913",305,1,4243.18994140625,"At Risk (High Value)"
+C9608,"Customer C9608",151,1,2164.25,Potential/Standard
+C5413,"Customer C5413",563,1,614.7899780273438,Churned/Lost
+C6520,"Customer C6520",604,1,3293.280029296875,"At Risk (High Value)"
+C9150,"Customer C9150",103,1,4504.240234375,Potential/Standard
+C9593,"Customer C9593",47,2,7700.81982421875,Potential/Standard
+C4651,"Customer C4651",503,1,430.5799865722656,Churned/Lost
+C9254,"Customer C9254",547,1,4051.43994140625,"At Risk (High Value)"
+C9453,"Customer C9453",790,1,3887.72998046875,"At Risk (High Value)"
+C7152,"Customer C7152",587,1,139.8300018310547,Churned/Lost
+C3826,"Customer C3826",250,1,427,Potential/Standard
+C5324,"Customer C5324",475,1,5076.47998046875,"At Risk (High Value)"
+C4737,"Customer C4737",194,1,6144.72021484375,"At Risk (High Value)"
+C1146,"Customer C1146",835,1,2369.360107421875,"At Risk (High Value)"
+C8871,"Customer C8871",288,1,769.5,Potential/Standard
+C3684,"Customer C3684",827,1,483.8399963378906,Churned/Lost
+C1161,"Customer C1161",827,1,385.55999755859375,Churned/Lost
+C5846,"Customer C5846",741,1,420.7799987792969,Churned/Lost
+C3460,"Customer C3460",0,2,9060.659912109375,Potential/Standard
+C7931,"Customer C7931",824,1,2311.469970703125,"At Risk (High Value)"
+C5980,"Customer C5980",317,1,697.5599975585938,Potential/Standard
+C6022,"Customer C6022",506,1,2258.199951171875,"At Risk (High Value)"
+C3817,"Customer C3817",538,1,976.1400146484375,Churned/Lost
+C8639,"Customer C8639",574,1,1319.6400146484375,Churned/Lost
+C5623,"Customer C5623",204,3,4122.590118408203,"At Risk (High Value)"
+C5978,"Customer C5978",711,1,1994.02001953125,Churned/Lost
+C2279,"Customer C2279",523,1,867.1799926757812,Churned/Lost
+C4160,"Customer C4160",122,1,79.9000015258789,Potential/Standard
+C1045,"Customer C1045",322,1,1104.8800048828125,Potential/Standard
+C7551,"Customer C7551",76,1,522.0800170898438,Potential/Standard
+C8730,"Customer C8730",341,1,2108.47998046875,"At Risk (High Value)"
+C5902,"Customer C5902",312,2,6438.239990234375,"At Risk (High Value)"
+C5027,"Customer C5027",456,1,1153.02001953125,Churned/Lost
+C8912,"Customer C8912",478,1,3920.419921875,"At Risk (High Value)"
+C3897,"Customer C3897",767,1,1050.0799560546875,Churned/Lost
+C9345,"Customer C9345",518,1,231.0800018310547,Churned/Lost
+C2932,"Customer C2932",708,1,596.5599975585938,Churned/Lost
+C1555,"Customer C1555",289,1,3480.06005859375,"At Risk (High Value)"
+C2483,"Customer C2483",362,1,1486.530029296875,Potential/Standard
+C6318,"Customer C6318",206,1,2160.300048828125,"At Risk (High Value)"
+C7603,"Customer C7603",206,1,1383.75,Potential/Standard
+C4865,"Customer C4865",494,1,4635.81982421875,"At Risk (High Value)"
+C6695,"Customer C6695",608,1,72.25,Churned/Lost
+C8360,"Customer C8360",736,1,1981.1199951171875,Churned/Lost
+C7459,"Customer C7459",317,1,645.239990234375,Potential/Standard
+C8794,"Customer C8794",65,1,923.75,Potential/Standard
+C1271,"Customer C1271",408,1,1276.06005859375,Churned/Lost
+C7576,"Customer C7576",819,1,302.3399963378906,Churned/Lost
+C3743,"Customer C3743",147,1,3191.280029296875,Potential/Standard
+C6727,"Customer C6727",798,1,3154.739990234375,"At Risk (High Value)"
+C7602,"Customer C7602",718,1,3401.25,"At Risk (High Value)"
+C8777,"Customer C8777",351,1,923.75,Potential/Standard
+C3787,"Customer C3787",90,1,5260.85009765625,Potential/Standard
+C1292,"Customer C1292",343,1,2771.760009765625,"At Risk (High Value)"
+C9554,"Customer C9554",227,1,441.82000732421875,Potential/Standard
+C2013,"Customer C2013",787,1,3251.93994140625,"At Risk (High Value)"
+C8970,"Customer C8970",502,1,509.05999755859375,Churned/Lost
+C9822,"Customer C9822",688,1,2485.60009765625,"At Risk (High Value)"
+C3141,"Customer C3141",472,1,343.2699890136719,Churned/Lost
+C5168,"Customer C5168",132,1,2086.3798828125,Potential/Standard
+C4598,"Customer C4598",79,1,1831.469970703125,Potential/Standard
+C3331,"Customer C3331",835,1,742.1099853515625,Churned/Lost
+C8030,"Customer C8030",96,2,2738.1399898529053,Potential/Standard
+C8217,"Customer C8217",137,2,3024.4200439453125,Potential/Standard
+C3669,"Customer C3669",588,1,1472.449951171875,Churned/Lost
+C9097,"Customer C9097",50,1,1435.9200439453125,Potential/Standard
+C1957,"Customer C1957",595,1,3965.0400390625,"At Risk (High Value)"
+C1228,"Customer C1228",231,1,880.3200073242188,Potential/Standard
+C3455,"Customer C3455",395,2,2240.5800170898438,"At Risk (High Value)"
+C4260,"Customer C4260",880,1,743.280029296875,Churned/Lost
+C6184,"Customer C6184",656,1,1273.199951171875,Churned/Lost
+C9880,"Customer C9880",799,1,4172.72021484375,"At Risk (High Value)"
+C5119,"Customer C5119",682,1,772.4000244140625,Churned/Lost
+C2194,"Customer C2194",25,1,795,Potential/Standard
+C4011,"Customer C4011",379,1,1983.8399658203125,Churned/Lost
+C2801,"Customer C2801",903,1,1367.800048828125,Churned/Lost
+C3162,"Customer C3162",55,1,49.400001525878906,Potential/Standard
+C3096,"Customer C3096",443,1,1300.97998046875,Churned/Lost
+C3589,"Customer C3589",579,1,410.32000732421875,Churned/Lost
+C8523,"Customer C8523",605,1,3829.699951171875,"At Risk (High Value)"
+C4507,"Customer C4507",11,1,909.0399780273438,Potential/Standard
+C1349,"Customer C1349",144,1,70.9800033569336,Potential/Standard
+C2910,"Customer C2910",805,1,1792.1199951171875,Churned/Lost
+C8338,"Customer C8338",389,1,4974,"At Risk (High Value)"
+C9578,"Customer C9578",644,1,3805.679931640625,"At Risk (High Value)"
+C2645,"Customer C2645",205,1,3763.199951171875,"At Risk (High Value)"
+C7332,"Customer C7332",163,2,3391.969970703125,Potential/Standard
+C7272,"Customer C7272",535,2,4525.050201416016,"At Risk (High Value)"
+C9841,"Customer C9841",45,1,268.9800109863281,Potential/Standard
+C9328,"Customer C9328",35,1,2564.93994140625,Potential/Standard
+C9505,"Customer C9505",297,1,776.8599853515625,Potential/Standard
+C2357,"Customer C2357",600,1,898.4199829101562,Churned/Lost
+C8176,"Customer C8176",160,1,22.889999389648438,Potential/Standard
+C7633,"Customer C7633",815,2,1067.0199584960938,Churned/Lost
+C6165,"Customer C6165",376,1,2350.949951171875,"At Risk (High Value)"
+C6377,"Customer C6377",898,1,2264.919921875,"At Risk (High Value)"
+C1172,"Customer C1172",750,1,361.5899963378906,Churned/Lost
+C7580,"Customer C7580",872,1,499.2200012207031,Churned/Lost
+C2642,"Customer C2642",557,1,4106.52001953125,"At Risk (High Value)"
+C4576,"Customer C4576",137,1,3752.909912109375,Potential/Standard
+C3626,"Customer C3626",496,1,2424.8798828125,"At Risk (High Value)"
+C7227,"Customer C7227",859,1,1327.3599853515625,Churned/Lost
+C9723,"Customer C9723",177,1,6222.39990234375,Potential/Standard
+C9307,"Customer C9307",153,2,1849.27001953125,Potential/Standard
+C7581,"Customer C7581",527,1,4236.9599609375,"At Risk (High Value)"
+C4693,"Customer C4693",681,1,2068.47998046875,"At Risk (High Value)"
+C9163,"Customer C9163",834,1,2650.139892578125,"At Risk (High Value)"
+C7433,"Customer C7433",543,1,827.7899780273438,Churned/Lost
+C6992,"Customer C6992",772,1,190.2899932861328,Churned/Lost
+C7426,"Customer C7426",149,1,631.8099975585938,Potential/Standard
+C6431,"Customer C6431",692,1,3952.199951171875,"At Risk (High Value)"
+C5194,"Customer C5194",857,1,4251.66015625,"At Risk (High Value)"
+C8964,"Customer C8964",347,1,3569.929931640625,"At Risk (High Value)"
+C7564,"Customer C7564",516,1,1111.300048828125,Churned/Lost
+C9019,"Customer C9019",462,1,122.5199966430664,Churned/Lost
+C4324,"Customer C4324",893,1,365.3999938964844,Churned/Lost
+C4399,"Customer C4399",856,1,234.7899932861328,Churned/Lost
+C9533,"Customer C9533",833,1,949.3800048828125,Churned/Lost
+C6629,"Customer C6629",10,1,450.6600036621094,Potential/Standard
+C2179,"Customer C2179",1,2,3734.5100708007812,Potential/Standard
+C7838,"Customer C7838",474,1,3115.43994140625,"At Risk (High Value)"
+C2462,"Customer C2462",178,1,2683.52001953125,Potential/Standard
+C3708,"Customer C3708",237,2,7329.169921875,"At Risk (High Value)"
+C2550,"Customer C2550",256,1,1949.9000244140625,Potential/Standard
+C9725,"Customer C9725",258,3,3963.9400024414062,"At Risk (High Value)"
+C5158,"Customer C5158",599,1,168.44000244140625,Churned/Lost
+C7916,"Customer C7916",313,1,5327.27978515625,"At Risk (High Value)"
+C8723,"Customer C8723",522,1,2611.840087890625,"At Risk (High Value)"
+C8670,"Customer C8670",135,2,3688.800048828125,Potential/Standard
+C2734,"Customer C2734",523,1,1099.02001953125,Churned/Lost
+C1589,"Customer C1589",859,1,533.8200073242188,Churned/Lost
+C4771,"Customer C4771",424,1,3878.949951171875,"At Risk (High Value)"
+C2958,"Customer C2958",367,1,3032.219970703125,"At Risk (High Value)"
+C3828,"Customer C3828",633,1,635.4199829101562,Churned/Lost
+C3903,"Customer C3903",479,1,4817.60986328125,"At Risk (High Value)"
+C4863,"Customer C4863",171,1,5368.93017578125,Potential/Standard
+C9813,"Customer C9813",187,1,2445.47998046875,"At Risk (High Value)"
+C2931,"Customer C2931",475,1,1289.699951171875,Churned/Lost
+C1887,"Customer C1887",561,1,4804.39990234375,"At Risk (High Value)"
+C4343,"Customer C4343",766,1,1270.699951171875,Churned/Lost
+C1688,"Customer C1688",576,2,7297.440185546875,"At Risk (High Value)"
+C5554,"Customer C5554",850,1,1589.949951171875,Churned/Lost
+C6697,"Customer C6697",182,1,59.75,Potential/Standard
+C9488,"Customer C9488",268,1,1349.949951171875,Potential/Standard
+C9641,"Customer C9641",303,1,683.6500244140625,Potential/Standard
+C3666,"Customer C3666",85,1,2004.8800048828125,Potential/Standard
+C5342,"Customer C5342",310,1,2673.06005859375,"At Risk (High Value)"
+C3773,"Customer C3773",494,2,679.5299987792969,Churned/Lost
+C4488,"Customer C4488",89,2,5552.1400146484375,Potential/Standard
+C7586,"Customer C7586",99,1,2430.60009765625,Potential/Standard
+C5784,"Customer C5784",810,1,4319.14013671875,"At Risk (High Value)"
+C3222,"Customer C3222",284,1,577.6799926757812,Potential/Standard
+C4409,"Customer C4409",292,1,2271.050048828125,"At Risk (High Value)"
+C3334,"Customer C3334",43,2,1757.5699462890625,Potential/Standard
+C3207,"Customer C3207",493,1,4262.93017578125,"At Risk (High Value)"
+C5890,"Customer C5890",796,1,2939.919921875,"At Risk (High Value)"
+C1425,"Customer C1425",861,1,1436.300048828125,Churned/Lost
+C6903,"Customer C6903",247,1,542.8800048828125,Potential/Standard
+C3696,"Customer C3696",251,2,5801.35986328125,"At Risk (High Value)"
+C2057,"Customer C2057",657,1,2065.43994140625,"At Risk (High Value)"
+C8267,"Customer C8267",8,1,2405.1201171875,Potential/Standard
+C9579,"Customer C9579",204,2,7576.190185546875,"At Risk (High Value)"
+C3699,"Customer C3699",874,1,909.219970703125,Churned/Lost
+C6085,"Customer C6085",337,2,785.5899810791016,Potential/Standard
+C8574,"Customer C8574",795,1,827.8200073242188,Churned/Lost
+C8044,"Customer C8044",819,1,3854.949951171875,"At Risk (High Value)"
+C9559,"Customer C9559",746,1,2906.580078125,"At Risk (High Value)"
+C6600,"Customer C6600",201,1,781.989990234375,Potential/Standard
+C5140,"Customer C5140",93,1,2033.199951171875,Potential/Standard
+C2690,"Customer C2690",110,1,261.1700134277344,Potential/Standard
+C1626,"Customer C1626",870,1,3878.39990234375,"At Risk (High Value)"
+C6843,"Customer C6843",871,1,4975.60009765625,"At Risk (High Value)"
+C8283,"Customer C8283",11,2,2382.6700439453125,Potential/Standard
+C8697,"Customer C8697",346,1,4130.64013671875,"At Risk (High Value)"
+C4666,"Customer C4666",205,1,17.780000686645508,Potential/Standard
+C2904,"Customer C2904",449,1,1453.239990234375,Churned/Lost
+C3239,"Customer C3239",396,1,3871.320068359375,"At Risk (High Value)"
+C9006,"Customer C9006",348,1,79.44999694824219,Potential/Standard
+C6166,"Customer C6166",157,1,550.0499877929688,Potential/Standard
+C3152,"Customer C3152",52,1,6311.27978515625,Potential/Standard
+C6688,"Customer C6688",84,1,365.94000244140625,Potential/Standard
+C8366,"Customer C8366",429,1,750.4600219726562,Churned/Lost
+C8444,"Customer C8444",448,1,84.30000305175781,Churned/Lost
+C6539,"Customer C6539",547,1,3696.699951171875,"At Risk (High Value)"
+C5620,"Customer C5620",787,1,2970.8701171875,"At Risk (High Value)"
+C6296,"Customer C6296",857,1,698.7999877929688,Churned/Lost
+C5989,"Customer C5989",771,1,17.1200008392334,Churned/Lost
+C3571,"Customer C3571",244,1,108.18000030517578,Potential/Standard
+C3416,"Customer C3416",791,1,462.30999755859375,Churned/Lost
+C2023,"Customer C2023",597,1,1881.719970703125,Churned/Lost
+C6504,"Customer C6504",508,1,535.4000244140625,Churned/Lost
+C4155,"Customer C4155",594,1,585.2000122070312,Churned/Lost
+C4702,"Customer C4702",779,1,3038,"At Risk (High Value)"
+C7696,"Customer C7696",137,1,573.739990234375,Potential/Standard
+C1433,"Customer C1433",275,1,258.1199951171875,Potential/Standard
+C2487,"Customer C2487",147,1,50.33000183105469,Potential/Standard
+C5607,"Customer C5607",864,1,909.5999755859375,Churned/Lost
+C7891,"Customer C7891",814,1,249.36000061035156,Churned/Lost
+C8247,"Customer C8247",53,1,3484.60009765625,Potential/Standard
+C8392,"Customer C8392",405,1,5158.64990234375,"At Risk (High Value)"
+C8117,"Customer C8117",621,1,107.66999816894531,Churned/Lost
+C2777,"Customer C2777",605,1,192.80999755859375,Churned/Lost
+C4384,"Customer C4384",532,1,2687.159912109375,"At Risk (High Value)"
+C7855,"Customer C7855",343,2,2845.240020751953,"At Risk (High Value)"
+C3463,"Customer C3463",788,1,529.9400024414062,Churned/Lost
+C6550,"Customer C6550",786,1,122.05999755859375,Churned/Lost
+C9356,"Customer C9356",558,1,572.0499877929688,Churned/Lost
+C5435,"Customer C5435",765,1,1494.75,Churned/Lost
+C7532,"Customer C7532",833,1,2673.75,"At Risk (High Value)"
+C1717,"Customer C1717",735,1,2570.330078125,"At Risk (High Value)"
+C9767,"Customer C9767",361,1,607.75,Potential/Standard
+C2564,"Customer C2564",272,1,1627.4000244140625,Potential/Standard
+C9901,"Customer C9901",63,1,1231.8399658203125,Potential/Standard
+C2101,"Customer C2101",462,1,1008.2999877929688,Churned/Lost
+C9814,"Customer C9814",885,1,5495.52001953125,"At Risk (High Value)"
+C5003,"Customer C5003",700,1,1863.030029296875,Churned/Lost
+C6675,"Customer C6675",586,1,77.69999694824219,Churned/Lost
+C2195,"Customer C2195",177,1,1456.199951171875,Potential/Standard
+C6181,"Customer C6181",687,1,1108,Churned/Lost
+C2109,"Customer C2109",343,1,638.1099853515625,Potential/Standard
+C2718,"Customer C2718",387,1,421.4700012207031,Churned/Lost
+C8088,"Customer C8088",134,1,4572.18994140625,Potential/Standard
+C6918,"Customer C6918",678,1,521.989990234375,Churned/Lost
+C3400,"Customer C3400",832,1,3028.760009765625,"At Risk (High Value)"
+C2782,"Customer C2782",25,2,4331.030090332031,Potential/Standard
+C4103,"Customer C4103",194,1,795.3599853515625,Potential/Standard
+C7183,"Customer C7183",639,1,227.36000061035156,Churned/Lost
+C1844,"Customer C1844",141,1,431.20001220703125,Potential/Standard
+C2326,"Customer C2326",420,1,3235.919921875,"At Risk (High Value)"
+C9916,"Customer C9916",401,1,116.58000183105469,Churned/Lost
+C3205,"Customer C3205",589,1,1233.199951171875,Churned/Lost
+C4222,"Customer C4222",150,2,1682.9500732421875,Potential/Standard
+C6781,"Customer C6781",132,1,1695.75,Potential/Standard
+C4770,"Customer C4770",748,1,506.82000732421875,Churned/Lost
+C4338,"Customer C4338",772,1,56.349998474121094,Churned/Lost
+C5170,"Customer C5170",772,1,387.1000061035156,Churned/Lost
+C5855,"Customer C5855",198,1,351.8999938964844,Potential/Standard
+C3417,"Customer C3417",470,1,362.8900146484375,Churned/Lost
+C4720,"Customer C4720",719,1,50.18000030517578,Churned/Lost
+C8590,"Customer C8590",670,1,2975.35009765625,"At Risk (High Value)"
+C1337,"Customer C1337",400,1,2524.080078125,"At Risk (High Value)"
+C6921,"Customer C6921",525,1,2631,"At Risk (High Value)"
+C5612,"Customer C5612",240,1,2834.22998046875,"At Risk (High Value)"
+C1359,"Customer C1359",902,1,1711.9000244140625,Churned/Lost
+C7016,"Customer C7016",564,1,147.57000732421875,Churned/Lost
+C1619,"Customer C1619",467,1,673.0499877929688,Churned/Lost
+C3499,"Customer C3499",212,1,308.29998779296875,Potential/Standard
+C7659,"Customer C7659",774,1,1397.0400390625,Churned/Lost
+C6547,"Customer C6547",318,1,1941.050048828125,Potential/Standard
+C9376,"Customer C9376",59,2,2791.7000122070312,Potential/Standard
+C1156,"Customer C1156",209,1,3451.800048828125,"At Risk (High Value)"
+C3010,"Customer C3010",92,1,1666.97998046875,Potential/Standard
+C2105,"Customer C2105",865,1,2525.760009765625,"At Risk (High Value)"
+C5042,"Customer C5042",602,1,3451.300048828125,"At Risk (High Value)"
+C1524,"Customer C1524",330,2,4831.280029296875,"At Risk (High Value)"
+C2867,"Customer C2867",786,2,3962.8800659179688,"At Risk (High Value)"
+C3516,"Customer C3516",122,1,3603.550048828125,Potential/Standard
+C8296,"Customer C8296",165,1,283.79998779296875,Potential/Standard
+C9251,"Customer C9251",701,1,539.7999877929688,Churned/Lost
+C4623,"Customer C4623",496,1,582.02001953125,Churned/Lost
+C5834,"Customer C5834",383,1,653.9600219726562,Churned/Lost
+C8484,"Customer C8484",701,1,2507.25,"At Risk (High Value)"
+C8496,"Customer C8496",663,1,970.5499877929688,Churned/Lost
+C2307,"Customer C2307",48,1,4299.9599609375,Potential/Standard
+C7339,"Customer C7339",820,1,1766.280029296875,Churned/Lost
+C3501,"Customer C3501",219,1,2528.300048828125,"At Risk (High Value)"
+C6288,"Customer C6288",288,1,554.0900268554688,Potential/Standard
+C1886,"Customer C1886",1,1,3100.39990234375,Potential/Standard
+C5314,"Customer C5314",535,1,3184.239990234375,"At Risk (High Value)"
+C9222,"Customer C9222",438,1,3341.39990234375,"At Risk (High Value)"
+C1267,"Customer C1267",558,1,1504,Churned/Lost
+C3026,"Customer C3026",431,1,256.489990234375,Churned/Lost
+C7333,"Customer C7333",2,1,3740.39990234375,Potential/Standard
+C3509,"Customer C3509",632,1,86.51000213623047,Churned/Lost
+C6408,"Customer C6408",791,1,3498.60009765625,"At Risk (High Value)"
+C5338,"Customer C5338",19,1,3450.719970703125,Potential/Standard
+C8946,"Customer C8946",740,1,1459.97998046875,Churned/Lost
+C9324,"Customer C9324",877,1,688.4199829101562,Churned/Lost
+C6174,"Customer C6174",45,1,3445.43994140625,Potential/Standard
+C4515,"Customer C4515",877,1,2996,"At Risk (High Value)"
+C7210,"Customer C7210",158,1,1638.9100341796875,Potential/Standard
+C9176,"Customer C9176",121,1,2638.139892578125,Potential/Standard
+C3254,"Customer C3254",769,1,3837.5400390625,"At Risk (High Value)"
+C4315,"Customer C4315",410,1,1310.6400146484375,Churned/Lost
+C9709,"Customer C9709",195,1,1440.56005859375,Potential/Standard
+C8780,"Customer C8780",843,1,2798.719970703125,"At Risk (High Value)"
+C4962,"Customer C4962",854,1,2912.760009765625,"At Risk (High Value)"
+C5041,"Customer C5041",414,1,388.8299865722656,Churned/Lost
+C3726,"Customer C3726",423,1,2365.64990234375,"At Risk (High Value)"
+C3536,"Customer C3536",897,1,458.54998779296875,Churned/Lost
+C5469,"Customer C5469",624,1,408.4200134277344,Churned/Lost
+C9904,"Customer C9904",556,1,2843.639892578125,"At Risk (High Value)"
+C2792,"Customer C2792",365,1,3983.449951171875,"At Risk (High Value)"
+C5083,"Customer C5083",455,1,2399.580078125,"At Risk (High Value)"
+C8228,"Customer C8228",451,1,192.42999267578125,Churned/Lost
+C3842,"Customer C3842",822,1,99.62999725341797,Churned/Lost
+C2225,"Customer C2225",786,1,5347.509765625,"At Risk (High Value)"
+C3312,"Customer C3312",203,1,5134.35986328125,"At Risk (High Value)"
+C2565,"Customer C2565",309,1,3866.75,"At Risk (High Value)"
+C9275,"Customer C9275",36,2,4563.14990234375,Potential/Standard
+C8571,"Customer C8571",157,1,1048,Potential/Standard
+C6744,"Customer C6744",261,1,102.16999816894531,Potential/Standard
+C5171,"Customer C5171",219,1,47.970001220703125,Potential/Standard
+C8694,"Customer C8694",730,1,2368.97998046875,"At Risk (High Value)"
+C5385,"Customer C5385",590,1,3416.719970703125,"At Risk (High Value)"
+C3690,"Customer C3690",854,1,637.25,Churned/Lost
+C5934,"Customer C5934",186,1,2613.639892578125,"At Risk (High Value)"
+C4818,"Customer C4818",605,1,2249.1201171875,"At Risk (High Value)"
+C3336,"Customer C3336",491,2,3013.580078125,"At Risk (High Value)"
+C2984,"Customer C2984",676,1,1542.260009765625,Churned/Lost
+C8098,"Customer C8098",406,1,1969.3599853515625,Churned/Lost
+C4040,"Customer C4040",23,1,2966.0400390625,Potential/Standard
+C5608,"Customer C5608",16,1,3132.840087890625,Potential/Standard
+C5017,"Customer C5017",117,2,7467.31005859375,Potential/Standard
+C2393,"Customer C2393",78,1,1535.0400390625,Potential/Standard
+C4157,"Customer C4157",425,1,305.3999938964844,Churned/Lost
+C6620,"Customer C6620",395,1,2608.60009765625,"At Risk (High Value)"
+C4773,"Customer C4773",88,1,1236.6800537109375,Potential/Standard
+C3593,"Customer C3593",793,1,444.9599914550781,Churned/Lost
+C4707,"Customer C4707",483,1,1380.449951171875,Churned/Lost
+C1579,"Customer C1579",381,1,391.489990234375,Churned/Lost
+C5431,"Customer C5431",745,1,1649.1199951171875,Churned/Lost
+C1315,"Customer C1315",397,1,760.6799926757812,Churned/Lost
+C1563,"Customer C1563",311,1,1622.0999755859375,Potential/Standard
+C4425,"Customer C4425",627,1,428.5199890136719,Churned/Lost
+C7721,"Customer C7721",441,1,64.4000015258789,Churned/Lost
+C5232,"Customer C5232",124,1,1683.5999755859375,Potential/Standard
+C4628,"Customer C4628",219,1,56.4900016784668,Potential/Standard
+C7220,"Customer C7220",814,1,906.9000244140625,Churned/Lost
+C4184,"Customer C4184",747,1,1510.5,Churned/Lost
+C5739,"Customer C5739",322,1,300.5199890136719,Potential/Standard
+C2392,"Customer C2392",512,1,583.260009765625,Churned/Lost
+C9269,"Customer C9269",505,1,2919.89990234375,"At Risk (High Value)"
+C5111,"Customer C5111",776,1,293.9599914550781,Churned/Lost
+C6982,"Customer C6982",40,1,1189.719970703125,Potential/Standard
+C5346,"Customer C5346",783,1,26.920000076293945,Churned/Lost
+C1088,"Customer C1088",256,1,958.219970703125,Potential/Standard
+C3577,"Customer C3577",545,1,5233.2001953125,"At Risk (High Value)"
+C8072,"Customer C8072",450,1,292.6000061035156,Churned/Lost
+C1110,"Customer C1110",517,1,2754.639892578125,"At Risk (High Value)"
+C2509,"Customer C2509",707,1,2311.550048828125,"At Risk (High Value)"
+C5663,"Customer C5663",90,1,927.6799926757812,Potential/Standard
+C2933,"Customer C2933",3,1,1498.199951171875,Potential/Standard
+C9595,"Customer C9595",365,1,1102.550048828125,Potential/Standard
+C2364,"Customer C2364",322,1,2187.389892578125,"At Risk (High Value)"
+C6805,"Customer C6805",786,1,2414,"At Risk (High Value)"
+C1418,"Customer C1418",281,1,3931.199951171875,"At Risk (High Value)"
+C4706,"Customer C4706",495,1,2908.3798828125,"At Risk (High Value)"
+C4347,"Customer C4347",126,1,1801.02001953125,Potential/Standard
+C1671,"Customer C1671",825,1,665.9400024414062,Churned/Lost
+C6730,"Customer C6730",617,1,4441.43994140625,"At Risk (High Value)"
+C5809,"Customer C5809",147,1,469.5,Potential/Standard
+C6812,"Customer C6812",444,1,1221.6800537109375,Churned/Lost
+C2143,"Customer C2143",242,1,4575.47998046875,"At Risk (High Value)"
+C1885,"Customer C1885",32,1,83.94000244140625,Potential/Standard
+C2037,"Customer C2037",390,1,683.6400146484375,Churned/Lost
+C5049,"Customer C5049",113,1,2686.47998046875,Potential/Standard
+C8382,"Customer C8382",203,1,917.5999755859375,Potential/Standard
+C2728,"Customer C2728",116,1,2144.919921875,Potential/Standard
+C7319,"Customer C7319",561,1,654.469970703125,Churned/Lost
+C1837,"Customer C1837",911,1,1098.300048828125,Churned/Lost
+C9898,"Customer C9898",836,1,3471.919921875,"At Risk (High Value)"
+C8814,"Customer C8814",171,1,482.69000244140625,Potential/Standard
+C4385,"Customer C4385",864,1,2085.5400390625,"At Risk (High Value)"
+C5225,"Customer C5225",580,1,1363.5999755859375,Churned/Lost
+C7411,"Customer C7411",245,1,346.7799987792969,Potential/Standard
+C8750,"Customer C8750",523,1,3580.919921875,"At Risk (High Value)"
+C2776,"Customer C2776",147,1,2481.7099609375,Potential/Standard
+C2562,"Customer C2562",64,2,7289.219970703125,Potential/Standard
+C3354,"Customer C3354",16,1,583.4099731445312,Potential/Standard
+C5421,"Customer C5421",361,1,1940.6800537109375,Potential/Standard
+C9622,"Customer C9622",379,1,2278.800048828125,"At Risk (High Value)"
+C3333,"Customer C3333",413,1,4593.47021484375,"At Risk (High Value)"
+C7286,"Customer C7286",720,1,2380.050048828125,"At Risk (High Value)"
+C9401,"Customer C9401",328,1,199.99000549316406,Potential/Standard
+C2727,"Customer C2727",708,1,503.3699951171875,Churned/Lost
+C2130,"Customer C2130",444,1,1332.81005859375,Churned/Lost
+C4420,"Customer C4420",511,1,472.2799987792969,Churned/Lost
+C7115,"Customer C7115",190,1,1372.6400146484375,Potential/Standard
+C6807,"Customer C6807",176,2,2076.919921875,Potential/Standard
+C4862,"Customer C4862",732,1,2125.679931640625,"At Risk (High Value)"
+C2255,"Customer C2255",322,1,3260.800048828125,"At Risk (High Value)"
+C4369,"Customer C4369",240,1,902.4600219726562,Potential/Standard
+C1814,"Customer C1814",576,1,226.25999450683594,Churned/Lost
+C8788,"Customer C8788",431,1,877.260009765625,Churned/Lost
+C3761,"Customer C3761",232,2,863.8399963378906,Potential/Standard
+C2659,"Customer C2659",697,1,563.530029296875,Churned/Lost
+C4055,"Customer C4055",870,1,534.1199951171875,Churned/Lost
+C6270,"Customer C6270",350,1,2320.169921875,"At Risk (High Value)"
+C5457,"Customer C5457",534,1,374.4200134277344,Churned/Lost
+C2882,"Customer C2882",78,1,114.54000091552734,Potential/Standard
+C6426,"Customer C6426",99,1,2232.949951171875,Potential/Standard
+C7600,"Customer C7600",408,1,894.52001953125,Churned/Lost
+C4731,"Customer C4731",55,1,4316.97021484375,Potential/Standard
+C8199,"Customer C8199",459,1,154.32000732421875,Churned/Lost
+C4991,"Customer C4991",633,2,3930.1299438476562,"At Risk (High Value)"
+C1972,"Customer C1972",707,1,717.9400024414062,Churned/Lost
+C8799,"Customer C8799",834,1,4573.43994140625,"At Risk (High Value)"
+C6200,"Customer C6200",877,1,1143.050048828125,Churned/Lost
+C5983,"Customer C5983",754,1,2954.639892578125,"At Risk (High Value)"
+C6809,"Customer C6809",252,1,531.5399780273438,Potential/Standard
+C9553,"Customer C9553",240,1,3155.340087890625,"At Risk (High Value)"
+C7345,"Customer C7345",158,1,95.69999694824219,Potential/Standard
+C1763,"Customer C1763",766,1,1026.9599609375,Churned/Lost
+C2830,"Customer C2830",712,1,4148.16015625,"At Risk (High Value)"
+C7046,"Customer C7046",382,1,5192.669921875,"At Risk (High Value)"
+C1254,"Customer C1254",169,1,518.739990234375,Potential/Standard
+C1857,"Customer C1857",435,1,3752.8798828125,"At Risk (High Value)"
+C3513,"Customer C3513",422,1,4418.81982421875,"At Risk (High Value)"
+C9670,"Customer C9670",54,1,580.1799926757812,Potential/Standard
+C7175,"Customer C7175",415,1,2163.75,"At Risk (High Value)"
+C7537,"Customer C7537",650,1,2004.9000244140625,"At Risk (High Value)"
+C7866,"Customer C7866",355,1,435.3900146484375,Potential/Standard
+C8663,"Customer C8663",34,1,2704.56005859375,Potential/Standard
+C3103,"Customer C3103",136,1,2814,Potential/Standard
+C9976,"Customer C9976",378,1,1980.719970703125,Churned/Lost
+C7629,"Customer C7629",629,1,543.0800170898438,Churned/Lost
+C1486,"Customer C1486",733,1,391.3500061035156,Churned/Lost
+C5253,"Customer C5253",79,1,2269.97998046875,Potential/Standard
+C2950,"Customer C2950",591,1,757.239990234375,Churned/Lost
+C4162,"Customer C4162",491,1,543.760009765625,Churned/Lost
+C4204,"Customer C4204",325,1,2301.25,"At Risk (High Value)"
+C6059,"Customer C6059",278,1,1519.6500244140625,Potential/Standard
+C2422,"Customer C2422",301,1,5017.8798828125,"At Risk (High Value)"
+C7729,"Customer C7729",232,1,4573.52001953125,"At Risk (High Value)"
+C9367,"Customer C9367",388,1,77.77999877929688,Churned/Lost
+C1578,"Customer C1578",64,1,502.0400085449219,Potential/Standard
+C4542,"Customer C4542",125,1,2496.419921875,Potential/Standard
+C8755,"Customer C8755",340,1,193.1300048828125,Potential/Standard
+C1472,"Customer C1472",781,1,1478.4000244140625,Churned/Lost
+C3073,"Customer C3073",291,1,634.0499877929688,Potential/Standard
+C8383,"Customer C8383",351,1,1704.9000244140625,Potential/Standard
+C1956,"Customer C1956",560,1,1779.1800537109375,Churned/Lost
+C6301,"Customer C6301",423,1,291.9700012207031,Churned/Lost
+C2621,"Customer C2621",149,1,1481.0400390625,Potential/Standard
+C1754,"Customer C1754",869,1,852.6400146484375,Churned/Lost
+C3813,"Customer C3813",85,1,5210.9599609375,Potential/Standard
+C9267,"Customer C9267",576,1,1228.1700439453125,Churned/Lost
+C2327,"Customer C2327",252,1,3507.280029296875,"At Risk (High Value)"
+C1314,"Customer C1314",560,1,3352.320068359375,"At Risk (High Value)"
+C1889,"Customer C1889",702,1,2472.9599609375,"At Risk (High Value)"
+C6551,"Customer C6551",899,1,793.7999877929688,Churned/Lost
+C7143,"Customer C7143",667,1,1940.719970703125,Churned/Lost
+C5363,"Customer C5363",410,1,4382.490234375,"At Risk (High Value)"
+C5730,"Customer C5730",694,1,4235.52001953125,"At Risk (High Value)"
+C5550,"Customer C5550",55,1,2732.9599609375,Potential/Standard
+C6979,"Customer C6979",435,1,99.69999694824219,Churned/Lost
+C1882,"Customer C1882",585,1,609.5999755859375,Churned/Lost
+C7325,"Customer C7325",99,1,1899.5999755859375,Potential/Standard
+C4555,"Customer C4555",116,1,808.0800170898438,Potential/Standard
+C2231,"Customer C2231",485,1,3491.199951171875,"At Risk (High Value)"
+C6997,"Customer C6997",235,1,2680.75,"At Risk (High Value)"
+C5781,"Customer C5781",460,1,621.4000244140625,Churned/Lost
+C8244,"Customer C8244",207,1,2856.840087890625,"At Risk (High Value)"
+C2062,"Customer C2062",686,1,1791.6800537109375,Churned/Lost
+C8254,"Customer C8254",414,1,1011.9199829101562,Churned/Lost
+C3635,"Customer C3635",371,1,583.8900146484375,Churned/Lost
+C4681,"Customer C4681",789,1,4675.3798828125,"At Risk (High Value)"
+C9032,"Customer C9032",531,1,3558.64990234375,"At Risk (High Value)"
+C3924,"Customer C3924",340,1,73.2300033569336,Potential/Standard
+C4649,"Customer C4649",402,1,621.010009765625,Churned/Lost
+C8318,"Customer C8318",875,1,5394.89990234375,"At Risk (High Value)"
+C4601,"Customer C4601",883,1,1496.760009765625,Churned/Lost
+C1108,"Customer C1108",106,1,2359.39990234375,Potential/Standard
+C9164,"Customer C9164",862,1,115.70999908447266,Churned/Lost
+C6283,"Customer C6283",702,1,3219.360107421875,"At Risk (High Value)"
+C9569,"Customer C9569",900,1,4799.4599609375,"At Risk (High Value)"
+C2935,"Customer C2935",691,1,1939.949951171875,Churned/Lost
+C6117,"Customer C6117",266,1,87.27999877929688,Potential/Standard
+C7903,"Customer C7903",655,1,4852.259765625,"At Risk (High Value)"
+C2838,"Customer C2838",467,1,4093.4599609375,"At Risk (High Value)"
+C4971,"Customer C4971",730,1,295.8599853515625,Churned/Lost
+C4852,"Customer C4852",324,1,598.9199829101562,Potential/Standard
+C4650,"Customer C4650",193,1,860.8499755859375,Potential/Standard
+C4414,"Customer C4414",10,1,220.4499969482422,Potential/Standard
+C4969,"Customer C4969",358,1,309.239990234375,Potential/Standard
+C6707,"Customer C6707",402,1,4758,"At Risk (High Value)"
+C5406,"Customer C5406",758,1,2422.35009765625,"At Risk (High Value)"
+C1393,"Customer C1393",197,1,676.6400146484375,Potential/Standard
+C8486,"Customer C8486",820,1,578.0399780273438,Churned/Lost
+C7366,"Customer C7366",423,1,2070.719970703125,"At Risk (High Value)"
+C2317,"Customer C2317",40,1,52.90999984741211,Potential/Standard
+C6789,"Customer C6789",699,1,3800.39990234375,"At Risk (High Value)"
+C7884,"Customer C7884",291,1,417.0400085449219,Potential/Standard
+C9268,"Customer C9268",895,1,599.5800170898438,Churned/Lost
+C2980,"Customer C2980",848,1,1046.760009765625,Churned/Lost
+C4214,"Customer C4214",352,1,4787.83984375,"At Risk (High Value)"
+C5977,"Customer C5977",270,1,5165.919921875,"At Risk (High Value)"
+C2188,"Customer C2188",510,1,323.19000244140625,Churned/Lost
+C7787,"Customer C7787",664,1,961.9500122070312,Churned/Lost
+C7754,"Customer C7754",210,1,959.760009765625,Potential/Standard
+C9406,"Customer C9406",567,1,6283.919921875,"At Risk (High Value)"
+C7514,"Customer C7514",36,1,1619.4000244140625,Potential/Standard
+C8668,"Customer C8668",577,1,173.6999969482422,Churned/Lost
+C2464,"Customer C2464",691,1,1062.4000244140625,Churned/Lost
+C2018,"Customer C2018",624,1,4848.6201171875,"At Risk (High Value)"
+C3182,"Customer C3182",131,1,1469.0899658203125,Potential/Standard
+C3832,"Customer C3832",580,1,1350.5400390625,Churned/Lost
+C1365,"Customer C1365",780,1,1454.0699462890625,Churned/Lost
+C8781,"Customer C8781",490,1,3322.550048828125,"At Risk (High Value)"
+C5806,"Customer C5806",606,1,475.260009765625,Churned/Lost
+C8014,"Customer C8014",122,1,4663.47021484375,Potential/Standard
+C7248,"Customer C7248",441,1,1668.239990234375,Churned/Lost
+C9157,"Customer C9157",413,1,965.5800170898438,Churned/Lost
+C2319,"Customer C2319",107,1,471.1199951171875,Potential/Standard
+C3852,"Customer C3852",485,1,1489.8800048828125,Churned/Lost
+C5045,"Customer C5045",91,1,950.3400268554688,Potential/Standard
+C1547,"Customer C1547",408,1,614.780029296875,Churned/Lost
+C5585,"Customer C5585",505,1,3376.93994140625,"At Risk (High Value)"
+C9808,"Customer C9808",82,1,922.3200073242188,Potential/Standard
+C3111,"Customer C3111",801,1,1616.1600341796875,Churned/Lost
+C7924,"Customer C7924",693,1,3965.85009765625,"At Risk (High Value)"
+C1455,"Customer C1455",417,1,152.57000732421875,Churned/Lost
+C3335,"Customer C3335",41,1,1411.199951171875,Potential/Standard
+C4830,"Customer C4830",859,1,1556.43994140625,Churned/Lost
+C9685,"Customer C9685",679,1,5535.39013671875,"At Risk (High Value)"
+C1736,"Customer C1736",10,1,879,Potential/Standard
+C4889,"Customer C4889",224,1,1980.9300537109375,Potential/Standard
+C1094,"Customer C1094",724,1,4194.06005859375,"At Risk (High Value)"
+C3431,"Customer C3431",166,1,212.4499969482422,Potential/Standard
+C1135,"Customer C1135",848,1,2866.639892578125,"At Risk (High Value)"
+C5034,"Customer C5034",795,1,173.63999938964844,Churned/Lost
+C7561,"Customer C7561",602,1,1537.02001953125,Churned/Lost
+C2651,"Customer C2651",80,1,1102.949951171875,Potential/Standard
+C6785,"Customer C6785",808,1,1048.06005859375,Churned/Lost
+C5605,"Customer C5605",887,1,4567.0400390625,"At Risk (High Value)"
+C6735,"Customer C6735",496,1,4066.929931640625,"At Risk (High Value)"
+C5106,"Customer C5106",82,1,102.27999877929688,Potential/Standard
+C5050,"Customer C5050",619,1,6.059999942779541,Churned/Lost
+C8297,"Customer C8297",13,1,3318.199951171875,Potential/Standard
+C4142,"Customer C4142",415,1,1255.3800048828125,Churned/Lost
+C3720,"Customer C3720",562,1,2527.77001953125,"At Risk (High Value)"
+C8033,"Customer C8033",793,1,5540.080078125,"At Risk (High Value)"
+C6915,"Customer C6915",783,1,259.45001220703125,Churned/Lost
+C3459,"Customer C3459",242,1,1834.800048828125,Potential/Standard
+C5012,"Customer C5012",610,1,143.5,Churned/Lost
+C4933,"Customer C4933",73,1,2185.469970703125,Potential/Standard
+C2553,"Customer C2553",867,1,709.52001953125,Churned/Lost
+C7897,"Customer C7897",655,1,3022.320068359375,"At Risk (High Value)"
+C9295,"Customer C9295",242,1,980.8800048828125,Potential/Standard
+C9329,"Customer C9329",143,1,412.0899963378906,Potential/Standard
+C7543,"Customer C7543",856,1,2437.280029296875,"At Risk (High Value)"
+C2501,"Customer C2501",128,1,2971.679931640625,Potential/Standard
+C9680,"Customer C9680",909,1,2307.800048828125,"At Risk (High Value)"
+C6653,"Customer C6653",84,1,277.32000732421875,Potential/Standard
+C6852,"Customer C6852",568,1,766.75,Churned/Lost
+C7590,"Customer C7590",607,1,1709.1600341796875,Churned/Lost
+C3218,"Customer C3218",710,1,1278.719970703125,Churned/Lost
+C2091,"Customer C2091",176,1,167.49000549316406,Potential/Standard
+C6326,"Customer C6326",155,1,6015.52001953125,Potential/Standard
+C5519,"Customer C5519",402,1,3264.39990234375,"At Risk (High Value)"
+C3603,"Customer C3603",384,1,711.9400024414062,Churned/Lost
+C4906,"Customer C4906",167,1,1836.699951171875,Potential/Standard
+C5329,"Customer C5329",345,1,503.0799865722656,Potential/Standard
+C7483,"Customer C7483",740,1,1497.5,Churned/Lost
+C2482,"Customer C2482",47,1,2849.699951171875,Potential/Standard
+C2081,"Customer C2081",364,1,2795.60009765625,"At Risk (High Value)"
+C7355,"Customer C7355",640,1,1088.9599609375,Churned/Lost
+C3901,"Customer C3901",842,1,5135.919921875,"At Risk (High Value)"
+C4057,"Customer C4057",302,2,1131.3900146484375,Potential/Standard
+C9040,"Customer C9040",910,1,694.8499755859375,Churned/Lost
+C3450,"Customer C3450",839,1,261.20001220703125,Churned/Lost
+C8579,"Customer C8579",469,1,115.81999969482422,Churned/Lost
+C8285,"Customer C8285",154,1,1149.6600341796875,Potential/Standard
+C5693,"Customer C5693",611,1,1910.9599609375,Churned/Lost
+C9853,"Customer C9853",414,1,1440.9200439453125,Churned/Lost
+C1150,"Customer C1150",494,1,526.47998046875,Churned/Lost
+C1819,"Customer C1819",602,1,2697.320068359375,"At Risk (High Value)"
+C3517,"Customer C3517",414,1,4299.60009765625,"At Risk (High Value)"
+C5235,"Customer C5235",344,1,3408.699951171875,"At Risk (High Value)"
+C2680,"Customer C2680",543,1,4306.31982421875,"At Risk (High Value)"
+C9129,"Customer C9129",389,1,1645.760009765625,Churned/Lost
+C5365,"Customer C5365",717,1,2042.47998046875,"At Risk (High Value)"
+C1982,"Customer C1982",591,1,729.260009765625,Churned/Lost
+C4605,"Customer C4605",437,1,3096.800048828125,"At Risk (High Value)"
+C2073,"Customer C2073",365,1,544.1599731445312,Potential/Standard
+C7149,"Customer C7149",700,1,3320.340087890625,"At Risk (High Value)"
+C7155,"Customer C7155",34,1,329.70001220703125,Potential/Standard
+C9960,"Customer C9960",483,1,3148.8798828125,"At Risk (High Value)"
+C7552,"Customer C7552",519,1,42.7599983215332,Churned/Lost
+C8704,"Customer C8704",193,1,812.4600219726562,Potential/Standard
+C6344,"Customer C6344",268,1,333.3599853515625,Potential/Standard
+C5767,"Customer C5767",782,1,401.54998779296875,Churned/Lost
+C6802,"Customer C6802",266,1,1036.56005859375,Potential/Standard
+C1742,"Customer C1742",182,1,1322.22998046875,Potential/Standard
+C1043,"Customer C1043",56,1,743.3300170898438,Potential/Standard
+C2431,"Customer C2431",340,1,139.8800048828125,Potential/Standard
+C5845,"Customer C5845",783,1,3327.31005859375,"At Risk (High Value)"
+C7254,"Customer C7254",193,1,362.7699890136719,Potential/Standard
+C1181,"Customer C1181",299,1,778.7999877929688,Potential/Standard
+C9486,"Customer C9486",256,1,126.5999984741211,Potential/Standard
+C3390,"Customer C3390",570,1,2876.4599609375,"At Risk (High Value)"
+C5695,"Customer C5695",412,1,49.349998474121094,Churned/Lost
+C6444,"Customer C6444",683,1,116.12000274658203,Churned/Lost
+C9742,"Customer C9742",898,1,1258.5,Churned/Lost
+C8021,"Customer C8021",564,1,82.47000122070312,Churned/Lost
+C2764,"Customer C2764",211,1,2939.300048828125,"At Risk (High Value)"
+C9390,"Customer C9390",845,1,2080.3798828125,"At Risk (High Value)"
+C8762,"Customer C8762",149,1,27.020000457763672,Potential/Standard
+C8504,"Customer C8504",137,1,2194.360107421875,Potential/Standard
+C6343,"Customer C6343",239,1,866.25,Potential/Standard
+C2747,"Customer C2747",12,2,4110.9801025390625,Potential/Standard
+C1010,"Customer C1010",748,1,2359.3798828125,"At Risk (High Value)"
+C2008,"Customer C2008",658,1,4852.18994140625,"At Risk (High Value)"
+C5760,"Customer C5760",757,1,5290.9599609375,"At Risk (High Value)"
+C9923,"Customer C9923",728,1,3558.47998046875,"At Risk (High Value)"
+C7900,"Customer C7900",867,1,2236.080078125,"At Risk (High Value)"
+C7895,"Customer C7895",542,1,172.22000122070312,Churned/Lost
+C3816,"Customer C3816",362,1,477.0400085449219,Potential/Standard
+C6385,"Customer C6385",792,1,784.1099853515625,Churned/Lost
+C3407,"Customer C3407",536,1,347.9100036621094,Churned/Lost
+C6883,"Customer C6883",307,1,4759.14013671875,"At Risk (High Value)"
+C3054,"Customer C3054",47,1,1085.800048828125,Potential/Standard
+C1299,"Customer C1299",544,1,5229.27978515625,"At Risk (High Value)"
+C1690,"Customer C1690",13,1,1502.219970703125,Potential/Standard
+C2280,"Customer C2280",182,1,585.3599853515625,Potential/Standard
+C4107,"Customer C4107",424,1,1298.8499755859375,Churned/Lost
+C4778,"Customer C4778",332,1,3243.800048828125,"At Risk (High Value)"
+C6705,"Customer C6705",812,1,770.6799926757812,Churned/Lost
+C9052,"Customer C9052",666,1,3574.969970703125,"At Risk (High Value)"
+C4670,"Customer C4670",603,1,1310.239990234375,Churned/Lost
+C2841,"Customer C2841",423,1,401.32000732421875,Churned/Lost
+C9323,"Customer C9323",285,1,2912.77001953125,"At Risk (High Value)"
+C2268,"Customer C2268",826,1,2268.300048828125,"At Risk (High Value)"
+C7533,"Customer C7533",785,1,426.29998779296875,Churned/Lost
+C1453,"Customer C1453",860,1,172.0500030517578,Churned/Lost
+C2653,"Customer C2653",110,1,1600.1099853515625,Potential/Standard
+C6355,"Customer C6355",864,1,2860.47998046875,"At Risk (High Value)"
+C7497,"Customer C7497",577,1,480.05999755859375,Churned/Lost
+C1652,"Customer C1652",795,1,1834.6800537109375,Churned/Lost
+C4565,"Customer C4565",499,1,269.260009765625,Churned/Lost
+C3695,"Customer C3695",82,1,2950.360107421875,Potential/Standard
+C7859,"Customer C7859",757,1,752.5700073242188,Churned/Lost
+C1500,"Customer C1500",378,1,564.989990234375,Churned/Lost
+C9617,"Customer C9617",718,1,2819.25,"At Risk (High Value)"
+C9628,"Customer C9628",552,1,816.9299926757812,Churned/Lost
+C1699,"Customer C1699",616,1,1739.1600341796875,Churned/Lost
+C2089,"Customer C2089",320,1,1940.699951171875,Potential/Standard
+C5953,"Customer C5953",423,1,867.780029296875,Churned/Lost
+C3877,"Customer C3877",162,1,3934.5,Potential/Standard
+C6734,"Customer C6734",268,1,91.01000213623047,Potential/Standard
+C3863,"Customer C3863",306,1,154.22999572753906,Potential/Standard
+C6256,"Customer C6256",170,1,4311.2998046875,Potential/Standard
+C2733,"Customer C2733",568,1,75.04000091552734,Churned/Lost
+C5078,"Customer C5078",370,1,2226.989990234375,"At Risk (High Value)"
+C9712,"Customer C9712",660,1,1173.030029296875,Churned/Lost
+C7447,"Customer C7447",627,1,916.2999877929688,Churned/Lost
+C1989,"Customer C1989",178,1,320.239990234375,Potential/Standard
+C9217,"Customer C9217",439,1,362.9599914550781,Churned/Lost
+C5488,"Customer C5488",602,1,612.469970703125,Churned/Lost
+C1978,"Customer C1978",470,1,3659.43994140625,"At Risk (High Value)"
+C9806,"Customer C9806",230,1,565.3200073242188,Potential/Standard
+C2706,"Customer C2706",48,1,2640.050048828125,Potential/Standard
+C1828,"Customer C1828",417,1,1610.3199462890625,Churned/Lost
+C5938,"Customer C5938",723,1,475.45001220703125,Churned/Lost
+C7328,"Customer C7328",12,1,2991.800048828125,Potential/Standard
+C9859,"Customer C9859",522,1,3590.050048828125,"At Risk (High Value)"
+C8774,"Customer C8774",109,1,1613.3499755859375,Potential/Standard
+C3104,"Customer C3104",656,1,393.9599914550781,Churned/Lost
+C7069,"Customer C7069",383,1,2225.699951171875,"At Risk (High Value)"
+C5127,"Customer C5127",51,1,1173.550048828125,Potential/Standard
+C4981,"Customer C4981",328,1,3331.260009765625,"At Risk (High Value)"
+C8295,"Customer C8295",729,1,466.30999755859375,Churned/Lost
+C9336,"Customer C9336",312,1,2883.699951171875,"At Risk (High Value)"
+C1898,"Customer C1898",892,1,759.760009765625,Churned/Lost
+C5874,"Customer C5874",573,1,202.97999572753906,Churned/Lost
+C2346,"Customer C2346",512,2,1363.3300170898438,Churned/Lost
+C9993,"Customer C9993",40,1,1122.1199951171875,Potential/Standard
+C6633,"Customer C6633",846,1,1678.6800537109375,Churned/Lost
+C7810,"Customer C7810",288,1,2883.320068359375,"At Risk (High Value)"
+C1984,"Customer C1984",148,1,428.7300109863281,Potential/Standard
+C8055,"Customer C8055",62,1,728.52001953125,Potential/Standard
+C8515,"Customer C8515",253,1,1720.5,Potential/Standard
+C7275,"Customer C7275",792,1,2795.080078125,"At Risk (High Value)"
+C4387,"Customer C4387",282,1,3411.699951171875,"At Risk (High Value)"
+C8768,"Customer C8768",82,1,424.8999938964844,Potential/Standard
+C4637,"Customer C4637",618,1,1133.8800048828125,Churned/Lost
+C5538,"Customer C5538",787,1,2888.830078125,"At Risk (High Value)"
+C1467,"Customer C1467",724,1,3118.2900390625,"At Risk (High Value)"
+C2320,"Customer C2320",430,1,140.60000610351562,Churned/Lost
+C4674,"Customer C4674",729,1,1556,Churned/Lost
+C9154,"Customer C9154",112,1,3067.679931640625,Potential/Standard
+C6619,"Customer C6619",721,1,2061.919921875,"At Risk (High Value)"
+C6576,"Customer C6576",21,1,697.1599731445312,Potential/Standard
+C1949,"Customer C1949",308,1,2777.199951171875,"At Risk (High Value)"
+C7401,"Customer C7401",340,1,1349.3199462890625,Potential/Standard
+C8702,"Customer C8702",782,1,1971.8399658203125,Churned/Lost
+C2193,"Customer C2193",810,1,2052.659912109375,"At Risk (High Value)"
+C9421,"Customer C9421",592,2,3272.5999145507812,"At Risk (High Value)"
+C6738,"Customer C6738",451,1,1324.3800048828125,Churned/Lost
+C2168,"Customer C2168",382,1,434.9700012207031,Churned/Lost
+C3388,"Customer C3388",888,1,586.4400024414062,Churned/Lost
+C4405,"Customer C4405",796,1,170.16000366210938,Churned/Lost
+C3406,"Customer C3406",470,1,2299.0400390625,"At Risk (High Value)"
+C7065,"Customer C7065",705,1,2301.159912109375,"At Risk (High Value)"
+C3990,"Customer C3990",92,1,1112.5999755859375,Potential/Standard
+C5868,"Customer C5868",746,1,876.8200073242188,Churned/Lost
+C1494,"Customer C1494",401,1,804.3200073242188,Churned/Lost
+C4287,"Customer C4287",592,1,4594.5,"At Risk (High Value)"
+C8739,"Customer C8739",504,1,888.6500244140625,Churned/Lost
+C8575,"Customer C8575",587,1,3895.780029296875,"At Risk (High Value)"
+C1435,"Customer C1435",457,1,4749.43017578125,"At Risk (High Value)"
+C9972,"Customer C9972",803,1,979.6799926757812,Churned/Lost
+C8889,"Customer C8889",758,1,2192.489990234375,"At Risk (High Value)"
+C6194,"Customer C6194",776,1,2425.1201171875,"At Risk (High Value)"
+C6308,"Customer C6308",104,1,2479.39990234375,Potential/Standard
+C8474,"Customer C8474",415,1,2163.659912109375,"At Risk (High Value)"
+C5900,"Customer C5900",313,1,1017.6799926757812,Potential/Standard
+C1290,"Customer C1290",299,1,1683.52001953125,Potential/Standard
+C3479,"Customer C3479",47,1,2044.6500244140625,Potential/Standard
+C8053,"Customer C8053",8,1,470.2300109863281,Potential/Standard
+C3674,"Customer C3674",190,1,698.1900024414062,Potential/Standard
+C8201,"Customer C8201",889,1,4465.6201171875,"At Risk (High Value)"
+C2211,"Customer C2211",581,1,2327.280029296875,"At Risk (High Value)"
+C5564,"Customer C5564",17,1,3402.39990234375,Potential/Standard
+C6093,"Customer C6093",165,1,2846.760009765625,Potential/Standard
+C2333,"Customer C2333",77,1,835.5499877929688,Potential/Standard
+C4566,"Customer C4566",504,1,3643.3798828125,"At Risk (High Value)"
+C1224,"Customer C1224",613,1,3063.6201171875,"At Risk (High Value)"
+C9015,"Customer C9015",698,1,6062.47998046875,"At Risk (High Value)"
+C3528,"Customer C3528",279,1,2536.93994140625,"At Risk (High Value)"
+C9803,"Customer C9803",463,1,1664.800048828125,Churned/Lost
+C7750,"Customer C7750",487,1,3187.60009765625,"At Risk (High Value)"
+C7089,"Customer C7089",58,1,542.5800170898438,Potential/Standard
+C3308,"Customer C3308",434,1,214.92999267578125,Churned/Lost
+C6901,"Customer C6901",556,1,2625,"At Risk (High Value)"
+C8995,"Customer C8995",565,1,1979.0400390625,Churned/Lost
+C5516,"Customer C5516",893,1,3207.85009765625,"At Risk (High Value)"
+C7798,"Customer C7798",382,1,3235.9599609375,"At Risk (High Value)"
+C9172,"Customer C9172",524,1,2773.280029296875,"At Risk (High Value)"
+C2137,"Customer C2137",546,1,3466.5,"At Risk (High Value)"
+C8564,"Customer C8564",543,1,1845.9000244140625,Churned/Lost
+C8214,"Customer C8214",886,1,362.3999938964844,Churned/Lost
+C1446,"Customer C1446",267,1,1383.9200439453125,Potential/Standard
+C2608,"Customer C2608",844,1,716.3200073242188,Churned/Lost
+C9528,"Customer C9528",749,1,309.760009765625,Churned/Lost
+C8987,"Customer C8987",672,1,418.0400085449219,Churned/Lost
+C7488,"Customer C7488",342,1,2498,"At Risk (High Value)"
+C2929,"Customer C2929",296,2,7390.35986328125,"At Risk (High Value)"
+C9264,"Customer C9264",182,1,1458.6600341796875,Potential/Standard
+C5439,"Customer C5439",818,1,73.3499984741211,Churned/Lost
+C1604,"Customer C1604",83,1,926.3400268554688,Potential/Standard
+C8052,"Customer C8052",230,1,1104.0799560546875,Potential/Standard
+C2512,"Customer C2512",798,1,558.239990234375,Churned/Lost
+C4251,"Customer C4251",785,1,1217.969970703125,Churned/Lost
+C2162,"Customer C2162",815,1,965.5800170898438,Churned/Lost
+C5293,"Customer C5293",692,1,690.280029296875,Churned/Lost
+C7559,"Customer C7559",447,1,3352.199951171875,"At Risk (High Value)"
+C7184,"Customer C7184",78,1,4899.93017578125,Potential/Standard
+C9136,"Customer C9136",14,1,1360.1800537109375,Potential/Standard
+C4455,"Customer C4455",829,1,509.8399963378906,Churned/Lost
+C3561,"Customer C3561",319,1,1066.4000244140625,Potential/Standard
+C3253,"Customer C3253",727,1,2081.800048828125,"At Risk (High Value)"
+C6591,"Customer C6591",206,1,358.32000732421875,Potential/Standard
+C8319,"Customer C8319",521,1,1435.219970703125,Churned/Lost
+C3885,"Customer C3885",318,1,2164.43994140625,"At Risk (High Value)"
+C3106,"Customer C3106",622,1,939.1599731445312,Churned/Lost
+C9472,"Customer C9472",756,1,2381.159912109375,"At Risk (High Value)"
+C3078,"Customer C3078",820,1,326.1000061035156,Churned/Lost
+C7956,"Customer C7956",2,1,2628.719970703125,Potential/Standard
+C7726,"Customer C7726",728,1,2386.39990234375,"At Risk (High Value)"
+C6077,"Customer C6077",198,1,3260.47998046875,"At Risk (High Value)"
+C4172,"Customer C4172",476,1,2342.719970703125,"At Risk (High Value)"
+C5241,"Customer C5241",250,1,1509.3599853515625,Potential/Standard
+C5024,"Customer C5024",418,1,276.67999267578125,Churned/Lost
+C9792,"Customer C9792",274,1,4710.72021484375,"At Risk (High Value)"
+C7684,"Customer C7684",896,1,2749.760009765625,"At Risk (High Value)"
+C4159,"Customer C4159",602,1,4955.60009765625,"At Risk (High Value)"
+C7015,"Customer C7015",339,1,1466.4000244140625,Potential/Standard
+C4247,"Customer C4247",638,1,1377.8399658203125,Churned/Lost
+C7153,"Customer C7153",277,1,2935.8798828125,"At Risk (High Value)"
+C9545,"Customer C9545",353,1,1618.949951171875,Potential/Standard
+C2148,"Customer C2148",857,1,560,Churned/Lost
+C1999,"Customer C1999",891,1,4513.27978515625,"At Risk (High Value)"
+C7767,"Customer C7767",501,1,387.2799987792969,Churned/Lost
+C1667,"Customer C1667",422,1,1511.18994140625,Churned/Lost
+C4704,"Customer C4704",841,1,605.9400024414062,Churned/Lost
+C3216,"Customer C3216",299,1,308.0199890136719,Potential/Standard
+C1340,"Customer C1340",578,1,658.3200073242188,Churned/Lost
+C9330,"Customer C9330",595,1,404.3999938964844,Churned/Lost
+C1873,"Customer C1873",317,1,1339.9200439453125,Potential/Standard
+C5081,"Customer C5081",568,1,683.8200073242188,Churned/Lost
+C6106,"Customer C6106",247,1,55.7400016784668,Potential/Standard
+C9534,"Customer C9534",667,1,5310.64013671875,"At Risk (High Value)"
+C8164,"Customer C8164",726,1,2245.52001953125,"At Risk (High Value)"
+C5197,"Customer C5197",156,1,1872.449951171875,Potential/Standard
+C6836,"Customer C6836",265,1,232.22999572753906,Potential/Standard
+C9811,"Customer C9811",83,1,2262.60009765625,Potential/Standard
+C6726,"Customer C6726",714,1,56.08000183105469,Churned/Lost
+C1125,"Customer C1125",12,1,1154.1600341796875,Potential/Standard
+C3370,"Customer C3370",435,1,5139.1201171875,"At Risk (High Value)"
+C6898,"Customer C6898",21,1,2025.43994140625,Potential/Standard
+C6035,"Customer C6035",234,1,6389.1201171875,"At Risk (High Value)"
+C3796,"Customer C3796",228,1,1013.6799926757812,Potential/Standard
+C5477,"Customer C5477",712,1,1362.8399658203125,Churned/Lost
+C7672,"Customer C7672",10,1,3866.14990234375,Potential/Standard
+C2352,"Customer C2352",651,1,1164.1500244140625,Churned/Lost
+C5062,"Customer C5062",262,1,1790.8800048828125,Potential/Standard
+C4758,"Customer C4758",695,1,413.19000244140625,Churned/Lost
+C8160,"Customer C8160",601,1,448.5799865722656,Churned/Lost
+C5889,"Customer C5889",363,1,155.5800018310547,Potential/Standard
+C6643,"Customer C6643",726,1,1835.0400390625,Churned/Lost
+C5903,"Customer C5903",67,1,418.1199951171875,Potential/Standard
+C9561,"Customer C9561",585,1,2151.52001953125,"At Risk (High Value)"
+C8651,"Customer C8651",465,1,272.25,Churned/Lost
+C5641,"Customer C5641",55,1,112.22000122070312,Potential/Standard
+C2043,"Customer C2043",326,1,640.97998046875,Potential/Standard
+C6587,"Customer C6587",554,1,1544.280029296875,Churned/Lost
+C6767,"Customer C6767",349,1,838.9500122070312,Potential/Standard
+C9008,"Customer C9008",581,1,213.47999572753906,Churned/Lost
+C3709,"Customer C3709",10,1,185.1199951171875,Potential/Standard
+C2580,"Customer C2580",782,1,433.1499938964844,Churned/Lost
+C4099,"Customer C4099",866,1,1754.9599609375,Churned/Lost
+C3423,"Customer C3423",130,1,5364.56005859375,Potential/Standard
+C3127,"Customer C3127",723,1,295.55999755859375,Churned/Lost
+C3834,"Customer C3834",871,1,719.5499877929688,Churned/Lost
+C2424,"Customer C2424",348,1,3680.949951171875,"At Risk (High Value)"
+C5589,"Customer C5589",444,1,1409.8199462890625,Churned/Lost
+C7460,"Customer C7460",247,1,1664.3399658203125,Potential/Standard
+C2576,"Customer C2576",314,1,297.05999755859375,Potential/Standard
+C3578,"Customer C3578",705,1,2959.260009765625,"At Risk (High Value)"
+C8457,"Customer C8457",655,1,317.55999755859375,Churned/Lost
+C3411,"Customer C3411",449,1,4707.1201171875,"At Risk (High Value)"
+C9624,"Customer C9624",315,1,4253.27978515625,"At Risk (High Value)"
+C3846,"Customer C3846",569,1,635.8499755859375,Churned/Lost
+C2970,"Customer C2970",591,1,417.9200134277344,Churned/Lost
+C7397,"Customer C7397",800,1,891.7999877929688,Churned/Lost
+C7476,"Customer C7476",137,1,117.5,Potential/Standard
+C4936,"Customer C4936",385,1,181.44000244140625,Churned/Lost
+C1147,"Customer C1147",252,1,2195.340087890625,"At Risk (High Value)"
+C8351,"Customer C8351",431,1,4736.89990234375,"At Risk (High Value)"
+C2503,"Customer C2503",261,1,2625,"At Risk (High Value)"
+C3964,"Customer C3964",576,1,72.6500015258789,Churned/Lost
+C8498,"Customer C8498",588,1,74.97000122070312,Churned/Lost
+C2039,"Customer C2039",169,1,5199.669921875,Potential/Standard
+C6116,"Customer C6116",378,1,3120,"At Risk (High Value)"
+C8532,"Customer C8532",378,1,5517.330078125,"At Risk (High Value)"
+C5230,"Customer C5230",31,1,4742.64013671875,Potential/Standard
+C5408,"Customer C5408",302,1,502.0299987792969,Potential/Standard
+C5392,"Customer C5392",308,1,662.1400146484375,Potential/Standard
+C8238,"Customer C8238",777,1,39.2400016784668,Churned/Lost
+C8831,"Customer C8831",875,1,1292.1199951171875,Churned/Lost
+C6514,"Customer C6514",326,1,649.2999877929688,Potential/Standard
